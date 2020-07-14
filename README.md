@@ -1,10 +1,20 @@
 This repo is like a diary-review of my learning path.
 
 Basics
-
+  Remote
+  https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369
   Core concepts explained
   http://carlcheo.com/compsci
-
+  Time
+  https://unix4lyfe.org/time/
+  Memory
+  https://lwn.net/Articles/250967/
+  REGEX
+  https://github.com/regexhq
+  https://github.com/ziishaned/learn-regex
+  
+  Linkedin
+  https://womakerscode.gitbook.io/linkedin-um-guia-girl-power/
   Falsehoods programmers believe in
   https://github.com/kdeldycke/awesome-falsehood
   CS50 understanding tec
@@ -66,6 +76,13 @@ Not sure where yet
 
   - criptography
   https://www.coursera.org/learn/crypto
+  https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227
+  - SEO
+  https://katemats.com/what-every-programmer-should-know-about-seo/
+  - ZEN
+  https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html
+  - Learn x in y minutes
+  https://learnxinyminutes.com/
 
 Math
 
@@ -100,6 +117,9 @@ Articles
   https://github.com/papers-we-love/papers-we-love
 
 Books
+
+Git
+https://www.deployhq.com/git
 
 Testing
 
