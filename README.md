@@ -3,19 +3,15 @@
 ## Courses
 
 ### In progress
-  [Algorithms pI](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+  * [Algorithms part one](https://www.coursera.org/learn/algorithms-part1/home/welcome)
   - notes/repo: 
 
-# Basics
-  [Remote](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369)
-  [Core concepts explained](http://carlcheo.com/compsci)
-  Time
-  https://unix4lyfe.org/time/
-  Memory
-  https://lwn.net/Articles/250967/
-  REGEX
-  https://github.com/regexhq
-  https://github.com/ziishaned/learn-regex
+### Basics
+  * [Remote](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369)
+  * [Core concepts explained](http://carlcheo.com/compsci)
+  * [Time](https://unix4lyfe.org/time/)
+  * [Memory](https://lwn.net/Articles/250967/)
+  * [REGEX](https://github.com/regexhq) and [link 2](https://github.com/ziishaned/learn-regex)
   
   Linkedin
   https://womakerscode.gitbook.io/linkedin-um-guia-girl-power/
@@ -32,7 +28,7 @@
   Data abstraction
   https://www.edx.org/course/software-construction-data-abstraction
 
-Programming basics
+### Programming basics
 
   - logic
   - POO
@@ -40,37 +36,37 @@ Programming basics
   - Debugging
   https://www.udacity.com/course/software-debugging--cs259
 
-Data structures and algorithms
+### Data structures and algorithms
   https://sp19.datastructur.es/
   https://www.edx.org/course/foundations-of-data-structures#!
   https://www.coursera.org/learn/data-structures
 
-  Big O
+ ### Big O
   https://www.bigocheatsheet.com/
   Data struct visualiza
   https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
   Algorithms part II
   https://www.coursera.org/learn/algorithms-part2
 
-RProgramming languages
+### Programming languages
   - Ruby-lang/Rails
   - C - https://www.edx.org/course/c-programming-getting-started
   https://www.edx.org/course/c-programming-language-foundations
   - Lisp
   - Cpp - https://www.edx.org/course/introduction-to-c-3
 
-Command line, linux and VIM
+### Command line, linux and VIM
 
   - VIM path
 
   https://commandlinepoweruser.com/
   https://github.com/jlevy/the-art-of-command-line
 
-Architecture
+### Architecture
 
   - https://www.coursera.org/learn/comparch
 
-Not sure where yet
+### Not sure where yet
   - Floating points
   https://floating-point-gui.de/
   - Unicode
@@ -88,7 +84,7 @@ Not sure where yet
   - Learn x in y minutes
   https://learnxinyminutes.com/
 
-Math
+### Math
 
   https://www.edx.org/course/college-algebra-and-problem-solving
   https://www.edx.org/course/effective-thinking-through-mathematics
@@ -100,12 +96,12 @@ Math
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm
 
 
-Front end
+### Front end
 
 HTML, CSS
   https://learn.shayhowe.com/advanced-html-css/
 
-Functional programming
+### Functional programming
 
   https://www.youtube.com/watch?v=w1OwYWe4UFo&ab_channel=GURUSPtalks
   https://www.youtube.com/watch?v=E8I19uA-wGY&ab_channel=IvanPlyusnin
@@ -116,30 +112,30 @@ Functional programming
   https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43
   https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536
 
-Articles
+### Articles
 
   https://github.com/papers-we-love/papers-we-love
 
-Books
+### Books
 
-Git
+### Git
 https://www.deployhq.com/git
 
-Testing
+### Testing
 
   https://www.udacity.com/course/software-testing--cs258
 
-My interpreter
+### My interpreter
 
-Projects built
+### Projects built
 
-Open source contribution
+### Open source contribution
 
   https://opensource.guide/how-to-contribute/
 
-Links
+### Links
 
   map o computer science
   https://www.youtube.com/watch?v=SzJ46YA_RaA
 
-Talks
+### Talks
