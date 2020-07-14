@@ -1,17 +1,14 @@
-This repo is like a diary-review of my learning path.
+# This repo is a diary-review-to-do-list-done-list of my learning path.
 
-Courses
+## Courses
 
-In progress
-  Algorithms p I
-  - link: https://www.coursera.org/learn/algorithms-part1/home/welcome
+### In progress
+  [Algorithms pI](https://www.coursera.org/learn/algorithms-part1/home/welcome)
   - notes/repo: 
 
-Basics
-  Remote
-  https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369
-  Core concepts explained
-  http://carlcheo.com/compsci
+# Basics
+  [Remote](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369)
+  [Core concepts explained](http://carlcheo.com/compsci)
   Time
   https://unix4lyfe.org/time/
   Memory
