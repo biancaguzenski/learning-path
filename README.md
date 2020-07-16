@@ -12,6 +12,9 @@
   * [Time](https://unix4lyfe.org/time/)
   * [Memory](https://lwn.net/Articles/250967/)
   * [REGEX](https://github.com/regexhq) and [link 2](https://github.com/ziishaned/learn-regex)
+  * [APACHE](https://www.google.com/search?q=apache&oq=apache&aqs=chrome..69i57.666j0j1&sourceid=chrome&ie=UTF-8)
+  * [entrega continua](https://www.google.com/search?q=continuous+delivery&oq=continuous+delivery&aqs=chrome..69i57.2712j0j1&sourceid=chrome&ie=UTF-8)
+  
   
   Linkedin
   https://womakerscode.gitbook.io/linkedin-um-guia-girl-power/
