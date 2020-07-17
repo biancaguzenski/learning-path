@@ -6,9 +6,9 @@
   * [Algorithms part one](https://www.coursera.org/learn/algorithms-part1/home/welcome)
   - notes/repo: 
   
-  | primeiro...... | segundo ...... |
-  |----------------|----------------|
-  |                |                |
+  | Course | Description | repo |
+  | --------------------------- |  
+  | [Algorithms part one](https://www.coursera.org/learn/algorithms-part1/home/welcome) | Algorithms and data structures | repo |
 
 ### Basics
   * [Remote](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369)
