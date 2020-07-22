@@ -9,9 +9,9 @@
   | Course/School | Description | Status | Repo | Books/References | Certificate |
   | :---: | :---: | --- | --- | --- | --- |
   | Basics |
-  | [Algorithms - part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) | Algorithms and data structures | status |repo | Books | Cert |
-  | Alura - [Algoritmos I](https://cursos.alura.com.br/course/projetos-de-algoritmos-1) | Selection sort, insertion sort e introdução a análise | Finished | repo | Books | [Link](https://cursos.alura.com.br/user/biancalway/course/projetos-de-algoritmos-1/certificate) |
-  | Alura - [Algoritmos II](https://cursos.alura.com.br/course/projetos-de-algoritmos-2) | MergeSort, QuickSort, Busca Binária e Análise de Algoritmo | Finished | Repo | Books | [Link](https://cursos.alura.com.br/user/biancalway/course/projetos-de-algoritmos-2/formalCertificate) |
+  | [Algorithms - part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) | Algorithms and data structures | status | Repo | Books | |
+  | Alura - [Algoritmos I](https://cursos.alura.com.br/course/projetos-de-algoritmos-1) | Selection sort, insertion sort e introdução a análise | Finished | [Repo](https://github.com/biancaguzenski/basic-algorithms-and-data-structures) | Books | [Link](https://cursos.alura.com.br/user/biancalway/course/projetos-de-algoritmos-1/certificate) |
+  | Alura - [Algoritmos II](https://cursos.alura.com.br/course/projetos-de-algoritmos-2) | MergeSort, QuickSort, Busca Binária e Análise de Algoritmo | Finished | [Repo](https://github.com/biancaguzenski/basic-algorithms-and-data-structures) | Books | [Link](https://cursos.alura.com.br/user/biancalway/course/projetos-de-algoritmos-2/formalCertificate) |
   | C language |
   | Alura - [C language I](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-1) | C language - basics | Finished | repo | books | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-c-parte-1/formalCertificate) |
   | Alura - [C language II](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-2) | C language - intermediate | Finished | repo | books | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-c-parte-2/formalCertificate)
