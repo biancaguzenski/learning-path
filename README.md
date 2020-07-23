@@ -1,6 +1,10 @@
 # This repo is a diary-review-to-do-list-done-list of my learning path.
 
-## Courses
+### Projects
+
+[My projects](https://github.com/biancaguzenski/learning-path/blob/master/projects.md)
+
+### Courses
 
 [In progress/finished](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)  
 
