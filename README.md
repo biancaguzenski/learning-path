@@ -62,10 +62,12 @@
 
 ### Command line, linux and VIM
 
-  - VIM path
+  - VIM
 
   https://commandlinepoweruser.com/
-  https://github.com/jlevy/the-art-of-command-line
+  
+  
+  [The art of command line](https://github.com/jlevy/the-art-of-command-line) -> [Repo]
 
 ### Architecture
 
