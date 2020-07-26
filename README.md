@@ -18,28 +18,19 @@
   * [entrega continua](https://www.google.com/search?q=continuous+delivery&oq=continuous+delivery&aqs=chrome..69i57.2712j0j1&sourceid=chrome&ie=UTF-8)
   
   
-  Linkedin
-  https://womakerscode.gitbook.io/linkedin-um-guia-girl-power/
-  Falsehoods programmers believe in
-  https://github.com/kdeldycke/awesome-falsehood
-  CS50 understanding tec
-  https://www.edx.org/course/cs50s-understanding-technology
-  Writing professional code
-  https://www.edx.org/course/writing-professional-code-advanced-topics
-  Design thinking
-  https://www.edx.org/course/introduction-to-design-thinking
-  Simple data
-  https://www.edx.org/course/how-to-code-simple-data
-  Data abstraction
-  https://www.edx.org/course/software-construction-data-abstraction
+  * [Linkedin](https://womakerscode.gitbook.io/linkedin-um-guia-girl-power/)
+  * [Falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
+  * [CS50 understanding tec] (https://www.edx.org/course/cs50s-understanding-technology)
+  * [Writing professional code](https://www.edx.org/course/writing-professional-code-advanced-topics)
+  * [Design thinking](https://www.edx.org/course/introduction-to-design-thinking)
+  * [Simple data](https://www.edx.org/course/how-to-code-simple-data)
+  * [Data abstraction](https://www.edx.org/course/software-construction-data-abstraction)
 
 ### Programming basics
 
   - logic
-  - POO
-  https://www.edx.org/course/software-construction-object-oriented-design
-  - Debugging
-  https://www.udacity.com/course/software-debugging--cs259
+  - [POO] (https://www.edx.org/course/software-construction-object-oriented-design)
+  - [Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
 ### Data structures and algorithms
   https://sp19.datastructur.es/
