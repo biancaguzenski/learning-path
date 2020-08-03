@@ -9,6 +9,11 @@
 [In progress/finished](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)  
 
 ### Basics
+  * [Path: teach yourself computer science](https://teachyourselfcs.com/#architecture)
+  * [Math for cs book](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+  * [Apps to build with rails](https://naturaily.com/blog/ruby-on-rails-apps)
+  * [Rubular](https://rubular.com/)
+  * [Questões sobre carreira](https://www.akitaonrails.com/2019/12/11/akitando-69-respondendo-suas-perguntas-sobre-carreira-via-instagram)
   * [Remote](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369)
   * [Core concepts explained](http://carlcheo.com/compsci)
   * [Time](https://unix4lyfe.org/time/)
@@ -16,6 +21,13 @@
   * [REGEX](https://github.com/regexhq) and [link 2](https://github.com/ziishaned/learn-regex)
   * [APACHE](https://www.google.com/search?q=apache&oq=apache&aqs=chrome..69i57.666j0j1&sourceid=chrome&ie=UTF-8)
   * [entrega continua](https://www.google.com/search?q=continuous+delivery&oq=continuous+delivery&aqs=chrome..69i57.2712j0j1&sourceid=chrome&ie=UTF-8)
+  * [TDD](http://devfuria.com.br/logica-de-programacao/tdd-junto-com-logica-assim-tao-cedo/)
+  
+### Job
+
+  * [Indeed](https://www.indeed.com.br/empregos-de-Job)
+  * [Stackjobs](https://stackoverflow.com/jobs)
+  * [Glassdoor](https://www.glassdoor.com.br/index.htm)
   
   
   * [Linkedin](https://womakerscode.gitbook.io/linkedin-um-guia-girl-power/)
