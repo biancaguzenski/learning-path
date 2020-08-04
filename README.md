@@ -9,6 +9,10 @@
 [In progress/finished](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)  
 
 ### Basics
+
+  | Course | Info | Duration/Effort | Status | Repo |
+  |--|--|--|--|--|
+  | [The missing semester](https://missing.csail.mit.edu/) | This course goes over things CS courses usualy dont go over: command shell, version control, text editing, remote machines, finding files, data wrangling, virtual machines and security. | 24h | In progress | Repo |
   * [Path: teach yourself computer science](https://teachyourselfcs.com/#architecture)
   * [Math for cs book](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
   * [Apps to build with rails](https://naturaily.com/blog/ruby-on-rails-apps)
