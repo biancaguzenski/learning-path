@@ -36,7 +36,7 @@
   
   * [Linkedin](https://womakerscode.gitbook.io/linkedin-um-guia-girl-power/)
   * [Falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
-  * [CS50 understanding tec] (https://www.edx.org/course/cs50s-understanding-technology)
+  * [CS50 understanding tec](https://www.edx.org/course/cs50s-understanding-technology)
   * [Writing professional code](https://www.edx.org/course/writing-professional-code-advanced-topics)
   * [Design thinking](https://www.edx.org/course/introduction-to-design-thinking)
   * [Simple data](https://www.edx.org/course/how-to-code-simple-data)
