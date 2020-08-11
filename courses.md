@@ -12,9 +12,10 @@
   | Alura - [Ruby language I](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-1) | Ruby language - basics | Finished| [Repo](https://github.com/biancaguzenski/projects-courses) | books | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-1/formalCertificate) |
   | Alura - [Ruby language II](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-2) | Ruby language - intermediate | Finished| [Repo](https://github.com/biancaguzenski/projects-courses) | books | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-2/formalCertificate)
   | Alura - [Ruby language III](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-3) | Ruby language - advanced | Finished| [Repo](https://github.com/biancaguzenski/projects-courses) | books | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-3/formalCertificate)
-  | Alura - [Object-oriented design with ruby](https://cursos.alura.com.br/course/orientacao-objetos-ruby) | Ruby language - OOP | Finished| [Repo](https://github.com/biancaguzenski/projects-courses) | books | Link)
+  | Alura - [Object-oriented design with ruby](https://cursos.alura.com.br/course/orientacao-objetos-ruby) | Ruby language - OOP | Finished | [Repo](https://github.com/biancaguzenski/projects-courses) | books | Link)
   | Others |
   | Alura - [Linux](https://cursos.alura.com.br/course/linux-ubuntu) | Linux - terminal | Finished | repo | books | [Link](https://cursos.alura.com.br/user/biancalway/course/linux-ubuntu/formalCertificate) |
+  | Alura - [Redes I)() | Computer Network | Finished | Repo | Books | Link |
 
 ### In progress 
   
