@@ -16,6 +16,20 @@
   | Others |
   | Alura - [Linux](https://cursos.alura.com.br/course/linux-ubuntu) | Linux - terminal | Finished | repo | books | [Link](https://cursos.alura.com.br/user/biancalway/course/linux-ubuntu/formalCertificate) |
   | Alura - [Redes I)() | Computer Network | Finished | Repo | Books | Link |
+  | Stanford - [Intro to computer networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | | | |
+  
+  [comp architect](https://www.coursera.org/learn/comparch)
+  [how to code: simple data](https://www.edx.org/course/how-to-code-simple-data)
+  [data abstraction](https://www.edx.org/course/software-construction-data-abstraction)
+  [write professional code](https://www.edx.org/course/writing-professional-code-advanced-topics)
+  [design thinking](https://www.edx.org/course/introduction-to-design-thinking)
+  [cs50 understanding tech](https://www.edx.org/course/cs50s-understanding-technology)
+  
+  
+  [math for cc](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
+  [linear algebra](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#)
+  [probablity](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+  [effective thining math](https://www.edx.org/course/effective-thinking-through-mathematics)
 
 ### In progress 
   
