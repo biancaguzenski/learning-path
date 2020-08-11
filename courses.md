@@ -22,4 +22,9 @@
   | Course/School | Description | Status | Repo | Books/References | Certificate |
   | :---: | :---: | --- | --- | --- | --- |  
   | Basics |
-  | [Algorithms - part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) | Algorithms and data structures | status | Repo | Books | |
+  | [Algorithms - part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) | Algorithms and data structures | In progress | Repo | Books | |
+  | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer?courseSlug=build-a-computer&showOnboardingModal=check) | Computer Architecture | In progress | Repo | Books | |
+  | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture | Not started | Repo | Books | |
+  | [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) | Algorithms | In progress | Books | |
+  | [Harvard - Advanced algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html) | Algorithms | In progress | Books | |
+  | [Math for computer science] | Math | In progress | [Books](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) | |
