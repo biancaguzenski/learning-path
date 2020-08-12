@@ -5,6 +5,7 @@ As i decided to learn by myself (although you are never by yourself, you need he
 ### Projects
 
 [My projects](https://github.com/biancaguzenski/learning-path/blob/master/projects.md)
+[Finished courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
 
 ### Introduction to programming
 ##### Topics covered: simple programs, simple data structures, CS tools, ruby and C
