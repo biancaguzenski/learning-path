@@ -15,9 +15,9 @@
   | Alura - [Ruby language III](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-3) | Ruby language - advanced | Finished| [Repo](https://github.com/biancaguzenski/projects-courses) | books | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-3/formalCertificate)
   | Alura - [Object-oriented design with ruby](https://cursos.alura.com.br/course/orientacao-objetos-ruby) | Ruby language - OOP | Finished | [Repo](https://github.com/biancaguzenski/projects-courses) | books | Link)
   | Others |
-  | Alura - [Linux](https://cursos.alura.com.br/course/linux-ubuntu) | Linux - terminal | Finished | repo | books | [Link](https://cursos.alura.com.br/user/biancalway/course/linux-ubuntu/formalCertificate) |
-  | Alura - [Redes I)() | Computer Network | Finished | Repo | Books | Link |
-  | Stanford - [Intro to computer networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | | | |
+  | Alura - [Linux](https://cursos.alura.com.br/course/linux-ubuntu) | Linux | Finished | | | [Link](https://cursos.alura.com.br/user/biancalway/course/linux-ubuntu/formalCertificate) |
+  | Alura - [Redes I](https://www.alura.com.br/curso-online-redes-introducao) | Computer Network | Finished | Repo | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | Link |
+  | Stanford - [Intro to computer networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Computer Network | In progress | [Repo] | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | Link |
   
   [comp architect](https://www.coursera.org/learn/comparch)
   [how to code: simple data](https://www.edx.org/course/how-to-code-simple-data)
