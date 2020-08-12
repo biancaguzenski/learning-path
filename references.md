@@ -15,3 +15,9 @@ Books and references i used while building projects/studying concepts.
 1. [Intro to C playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE)
 2. [Pointers playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2)
 3. [CS50 - intro to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+
+## Computer Networking
+
+1. [Course info, lab assignments](https://cs144.github.io/)
+2. [Course page 2](https://www.scs.stanford.edu/10au-cs144/)
+3. [Youtube playlist - Standford course](https://www.youtube.com/watch?v=-nciJGUPyAM&list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z&index=1)
