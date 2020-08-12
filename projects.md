@@ -8,6 +8,6 @@ Alura projects
 
 | Project | Info | References | Repo | Status |
 | -- | -- | -- | -- | -- |
-| Guessing game | Built in C and Ruby | | [C](https://github.com/biancaguzenski/projects-courses/tree/master/guessGame) / [Ruby](https://github.com/biancaguzenski/projects-courses/tree/master/guessGameRuby)| Finished |
-| Hangman game |  Built in C and Ruby | | [C](https://github.com/biancaguzenski/projects-courses/tree/master/hangman) / [Ruby](https://github.com/biancaguzenski/projects-courses/tree/master/hangmanRuby)| Finished |
-| Pacman game | Built in C and Ruby | | [C](https://github.com/biancaguzenski/projects-courses/tree/master/pacman)| Finished |
+| Guessing game | Built in C and Ruby | | [C](https://github.com/biancaguzenski/learning-path/tree/master/Projects/guessGame) / [Ruby](https://github.com/biancaguzenski/learning-path/tree/master/Projects/guessGameRuby)| Finished |
+| Hangman game |  Built in C and Ruby | | [C](https://github.com/biancaguzenski/learning-path/tree/master/Projects/hangman) / [Ruby](hhttps://github.com/biancaguzenski/learning-path/tree/master/Projects/hangmanRuby)| Finished |
+| Pacman game | Built in C and Ruby | | [C](https://github.com/biancaguzenski/learning-path/tree/master/Projects/pacman)| Finished |
