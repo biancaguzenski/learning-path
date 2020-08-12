@@ -18,6 +18,7 @@ Books and references i used while building projects/studying concepts.
 5. [Advanced algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)
 6. [Book - Algorithms - an illustrated guide](https://github.com/biancaguzenski/learning-path/blob/master/summaries/Aditya%20Bhargava%20-%20Grokking%20Algorithms_%20An%20Illustrated%20Guide%20for%20Programmers%20and%20Other%20Curious%20People-Manning%20Publications%20(2016).pdf)
 7. [Book - The art and craft of problem solving](https://github.com/biancaguzenski/learning-path/blob/master/summaries/Paul%20Zeitz%20-%20The%20Art%20and%20Craft%20of%20Problem%20Solving%2C%20Second%20Edition-Wiley%20(2007).pdf)
+8. [Data structures visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 ## Programming languages
 
@@ -44,3 +45,7 @@ Books and references i used while building projects/studying concepts.
 1. [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 2. [Command line power use](https://commandlinepoweruser.com/)
 3. 
+
+## Git
+
+1. [Git](https://www.deployhq.com/git)
