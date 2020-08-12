@@ -2,4 +2,4 @@
 
 | Project | Info | References | Repo | Status |
 | -- | -- | -- | -- | -- |
-| .pibslang | .pibslang is an interpreter built with ruby | References | [Repo](https://github.com/biancaguzenski/pibs-lang) | In progress |
+| .pibslang | .pibslang is an interpreter built with ruby | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/pibs-lang) | In progress |
