@@ -48,33 +48,12 @@
   - [POO] (https://www.edx.org/course/software-construction-object-oriented-design)
   - [Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
-### Data structures and algorithms
-  https://sp19.datastructur.es/
-  https://www.edx.org/course/foundations-of-data-structures#!
-  https://www.coursera.org/learn/data-structures
-
- ### Big O
-  https://www.bigocheatsheet.com/
-  Data struct visualiza
-  https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-  Algorithms part II
-  https://www.coursera.org/learn/algorithms-part2
-
 ### Programming languages
   - Ruby-lang/Rails
   - C - https://www.edx.org/course/c-programming-getting-started
   https://www.edx.org/course/c-programming-language-foundations
   - Lisp
   - Cpp - https://www.edx.org/course/introduction-to-c-3
-
-### Command line, linux and VIM
-
-  - VIM
-
-  https://commandlinepoweruser.com/
-  
-  
-  [The art of command line](https://github.com/jlevy/the-art-of-command-line) -> [Repo]
 
 ### Architecture
 
@@ -130,19 +109,13 @@ HTML, CSS
 
   https://github.com/papers-we-love/papers-we-love
 
-### Books
-
-### Git
-https://www.deployhq.com/git
 
 ### Testing
  
   [Rspec Tutorial - Ruby](https://www.tutorialspoint.com/rspec/rspec_writing_specs.htm)
   https://www.udacity.com/course/software-testing--cs258
 
-### My interpreter
 
-### Projects built
 
 ### Open source contribution
 
