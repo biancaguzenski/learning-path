@@ -8,18 +8,18 @@ As i decided to learn by myself (although you are never by yourself, you need he
 2. [List - Finished courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
 
 ### Introduction to programming
-##### Topics covered: simple programs, simple data structures, CS tools, ruby and C
+##### Topics covered: simple programs, simple data structures, CS tools, ruby
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--|
 | [Code foundations - codecademy](https://www.codecademy.com/learn/paths/code-foundations) | This path will give you an introduction to the world of code and basic concepts. | Self paced | Finished | |
 | [The missing semester](https://missing.csail.mit.edu/) | This course goes over things CS courses usualy dont go over: command shell, version control, text editing, remote machines, finding files, data wrangling, virtual machines and security. | 24h | In progress | Repo |
-| [Code foundations with Ruby](https://github.com/biancaguzenski/learning-path/blob/master/projects.md) | Programming logic and ruby language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
+| Code foundations with Ruby (You can go for any language you like while learning code foundations) | Programming and ruby language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
 
 Coding challenge websites to practice code foundations: [Edabit](https://edabit.com/), [Freecodecamp](https://www.freecodecamp.org/), [Project Euler](https://projecteuler.net/)
 
 ### Introduction to Computer Science
-##### Topics covered: computation, imperative programming, basic data structures, algorithms and more
+##### Topics covered: C, computation, imperative programming, basic data structures, algorithms and more
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
