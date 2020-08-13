@@ -23,7 +23,7 @@ Coding challenge websites to practice code foundations: [Edabit](https://edabit.
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
-| [Intro to computer science using C](https://github.com/biancaguzenski/learning-path/blob/master/projects.md) | Programming logic and C language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
+| [Intro to computer science using C](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) | Programming logic and C language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
 
 ### Core programming
 ##### Topics covered: functional programming, design for testing, program requirements, common design patterns, unit testing, object-oriented design, Lisp-family languages, Ruby and more
