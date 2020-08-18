@@ -13,7 +13,7 @@ As i decided to learn by myself (although you are never by yourself, you need he
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--|
 | [Code foundations - codecademy](https://www.codecademy.com/learn/paths/code-foundations) | This path will give you an introduction to the world of code and basic concepts. | Self paced | Finished | |
-| [The missing semester](https://missing.csail.mit.edu/) | This course goes over things CS courses usualy dont go over: command shell, version control, text editing, remote machines, finding files, data wrangling, virtual machines and security. | 24h | In progress | Repo |
+| [The missing semester](https://missing.csail.mit.edu/) | This course goes over things CS courses usualy dont go over: command shell, version control, text editing, remote machines, finding files, data wrangling, virtual machines and security. | 24h, self paced | In progress | Repo |
 | Code foundations with Ruby (You can go for any language you like while learning code foundations) | Programming and ruby language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
 
 Coding challenge websites to practice code foundations: [Edabit](https://edabit.com/), [Freecodecamp](https://www.freecodecamp.org/), [Project Euler](https://projecteuler.net/)
@@ -30,20 +30,20 @@ Coding challenge websites to practice code foundations: [Edabit](https://edabit.
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
-| [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | |	7 weeks,	8-10 hours/week | | |
-| [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | |	6 weeks,	8-10 hours/week	| | |
-| [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)	| 5 weeks,	4-8 hours/week | In progress | |
-| [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)	| | 3 weeks,	4-8 hours/week | | |
-| [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)	| | 3 weeks,	4-8 hours/week | | |
+| [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | |	70h | In progress | |
+| [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | |	60h	| | |
+| [Programming Languages, Part A - ML language](https://www.coursera.org/learn/programming-languages)	| | 40h | In progress | |
+| [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| | 24h | | |
+| [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| | 24h | | |
 
 ### Core systems
 ##### Topics covered: procedural programming, manual memory management, boolean algebra, gate logic, memory computer architecture, assembly, machine language, virtual machines, high-level languages, compilers, operating systems, network protocols and more
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
-| [Intro to Computer Science - CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science#!)|	A broad and robust understanding of computer science and programming | 12 weeks,	10-20 hours/week	(After the sections on C, skip to the next course. [Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50)) | Finished | [Repo]() |
-|[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)|	6 weeks,	7-13 hours/week | | |
-|[Build a Modern Computer from First Principles: Nand to Tetris Part II] |	6 weeks	12-18 hours/week | | |
-|[Introduction to Computer Networking	8 weeks	4–12 hours/week](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 8 weeks, 4–12 hours/week |[Ass 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1) [Ass2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html) [Ass3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf) [Ass4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf) | | 
+| [Intro to Computer Science - CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science#!)|	A broad and robust understanding of computer science and programming | Self paced	(After the sections on C, skip to the next course. [Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50)) | Finished | [Repo]() |
+|[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)|	65h | | |
+|[Build a Modern Computer from First Principles: Nand to Tetris Part II] |	100h | | |
+|[Introduction to Computer Networking	8 weeks	4–12 hours/week](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 70h |[Ass 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1) [Ass2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html) [Ass3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf) [Ass4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf) | | 
 |[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | | | | |
 
 ### Core theory
