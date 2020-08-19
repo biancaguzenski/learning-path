@@ -49,12 +49,26 @@ Coding challenge websites to practice code foundations: [Edabit](https://edabit.
 ### Core theory
 ##### Topics covered: divide and conquer, sorting and searching, randomized algorithms, graph search, shortest paths, data structures, greedy algorithms, minimum spanning trees, dynamic programming, NP-completeness and more
 
+| Course | Info | Duration/Effort | Status | Repo |
+|--|--|--|--|--| 
+| [Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Analysis of algorithms, union find, quick find, stack, queue, sorting algorithms, trees, hash and symbol tables | | Finished | [Repo](https://github.com/biancaguzenski/basic-algorithms-and-data-structures) |
+| [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | | | In progress | [Repo] |
+
 ### Core Security
 ##### Topics covered Confidentiality, Integrity, Availability Secure Design Defensive Programming Threats and Attacks Network Security Cryptography and more
 
+| Course | Info | Duration/Effort | Status | Repo |
+|--|--|--|--|--| 
+
 ### Core applications
 
+| Course | Info | Duration/Effort | Status | Repo |
+|--|--|--|--|--| 
+
 ### Advanced topics
+
+| Course | Info | Duration/Effort | Status | Repo |
+|--|--|--|--|--| 
 
 ### Math
 Students must choose one of the following topics: calculus, linear algebra, logic, or probability.
