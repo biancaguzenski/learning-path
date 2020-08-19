@@ -18,12 +18,16 @@ As i decided to learn by myself (although you are never by yourself, you need he
 
 Coding challenge websites to practice code foundations: [Edabit](https://edabit.com/), [Freecodecamp](https://www.freecodecamp.org/), [Project Euler](https://projecteuler.net/)
 
+Extra courses i took: [Linux](https://github.com/biancaguzenski/learning-path/blob/master/courses.md), [Git], [Vim]
+
 ### Introduction to Computer Science
-##### Topics covered: C, computation, imperative programming, basic data structures, algorithms and more
+##### Topics covered: C, computation, imperative programming, basic data structures and more
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
-| [Intro to computer science using C](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) | Programming logic and C language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
+| [Intro to computer science using C](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) | Programming and C language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
+
+Although you can use any language to learn programming, C is a important tool for you to understand how things really happen under the hood (like memory allocation).
 
 ### Core programming
 ##### Topics covered: functional programming, design for testing, program requirements, common design patterns, unit testing, object-oriented design, Lisp-family languages, Ruby and more
@@ -36,6 +40,10 @@ Coding challenge websites to practice code foundations: [Edabit](https://edabit.
 | [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| | 24h | | |
 | [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| | 24h | | |
 
+Extra courses i took: [Ruby language I, II and II, Object oriented design with Ruby](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
+
+I can't emphasise enough how important is to build strong programming foundations, that's why this module is so important.
+
 ### Core systems
 ##### Topics covered: procedural programming, manual memory management, boolean algebra, gate logic, memory computer architecture, assembly, machine language, virtual machines, high-level languages, compilers, operating systems, network protocols and more
 | Course | Info | Duration/Effort | Status | Repo |
@@ -43,7 +51,7 @@ Coding challenge websites to practice code foundations: [Edabit](https://edabit.
 | [Intro to Computer Science - CS50](https://www.edx.org/course/cs50s-introduction-to-computer-science#!)|	A broad and robust understanding of computer science and programming | Self paced	(After the sections on C, skip to the next course. [Why?](https://github.com/ossu/computer-science/blob/master/FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50)) | Finished | [Repo]() |
 |[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)|	65h | | |
 |[Build a Modern Computer from First Principles: Nand to Tetris Part II] |	100h | | |
-|[Introduction to Computer Networking	8 weeks	4–12 hours/week](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 70h |[Ass 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1) [Ass2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html) [Ass3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf) [Ass4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf) | | 
+|[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 70h |[Ass 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1) [Ass2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html) [Ass3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf) [Ass4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf) | | 
 |[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | | | | |
 
 ### Core theory
