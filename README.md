@@ -40,6 +40,11 @@ Although you can use any language to learn programming, C is a important tool fo
 | [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| | 24h | | |
 | [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| | 24h | | |
 
+[professional code](https://www.edx.org/course/writing-professional-code-advanced-topics)
+[web design](https://www.coursera.org/specializations/web-design)
+[cs courses(https://github.com/ForrestKnight/open-source-cs)
+
+
 Extra courses i took: [Ruby language I, II and II, Object oriented design with Ruby](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
 
 I can't emphasise enough how important is to build strong programming foundations, that's why this module is so important.
