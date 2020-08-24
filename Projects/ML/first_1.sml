@@ -44,7 +44,40 @@ fun sort_pair(pr: int*int)=
 val list = [] (* use null function to verify if a list is empty *)
 	       (* use :: to insert a element at beggining of list *)
 	       (* use hd function to return first element and tl function to access other elements *)
-	       
+
+fun sum_list(x: int list)= (* list is parameter *)
+    if null x
+    then 0
+    else hd x + sum_list(tl x)
+
+fun countdown(x: int)= (* function return list *)
+    if x = 0
+    then []
+    else x :: countdown(x - 1)
+		       
+
+fun append(x: int list, y: int list)=
+    if null x
+    then y
+    else (hd x) :: append(tl x, y)
+
+fun sum_pairs(x: (int*int) list)=
+    if null x
+    then 0
+    else #1(hd x) + #2(hd x) + sum_pairs(tl x)
+
+fun first(x: (int*int) list)=
+    if null x
+    then []
+    else #1(hd x) :: first(tl x)
+
+fun second(x: (int*int) list)=
+    if null x
+    then []
+    else #2(hd x) :: second(tl x)
+			   
+			  
+			 
 	     
 	     
     
