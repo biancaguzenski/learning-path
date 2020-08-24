@@ -75,6 +75,20 @@ fun second(x: (int*int) list)=
     if null x
     then []
     else #2(hd x) :: second(tl x)
+
+fun list_product(x: int list)=
+    if null x
+    then 1
+    else hd x * list_product(tl x)
+			    
+fun factorial(x: int)=
+    list_product(countdown(x))
+
+fun factorial_two(x: int)=
+    if x <= 1
+    then 1
+    else x * factorial(x-1)
+		      
 			   
 			  
 			 
