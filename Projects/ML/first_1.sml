@@ -88,6 +88,35 @@ fun factorial_two(x: int)=
     if x <= 1
     then 1
     else x * factorial(x-1)
+
+(* Let expressions - local variables, scope - where a binding is in the environment *)
+
+		      (* let b1, b2... bn in E end *)
+
+fun testing_let(x: int)=
+    let
+	val z = if x > 0 then x else 40
+	val y = x+z+10
+    in
+	if x>y then x*2 else y*y
+    end
+
+fun testing_let_two()=
+    let
+	val x = 1 (* x as a local var *)
+    in
+	(let val x = 2 in x + 1 end) + (let val y = x + 2 in y + 1 end) (* in first case, x = 2 will shadow x = 1. In second case, x is equals 1 *)
+    end
+
+	
+	
+					   
+	
+		   
+						    
+		      
+
+		      
 		      
 			   
 			  
