@@ -24,6 +24,7 @@ fun number_in_month(x: (int*int*int) list, y: int)=
 fun number_in_months(x: (int*int*int) list, y: int list)=
     if null x orelse null y
     then 0
+	     
     else
 	let fun helper(x: (int*int*int) list, z: int)=
 		if null x
