@@ -1,0 +1,3 @@
+use "homeowrk.sml";
+
+val test_1 = is_older((1990, 02, 02), (2002, 01, 03)) andalso not is_older((1999, 01, 01), (1999, 01, 01))
