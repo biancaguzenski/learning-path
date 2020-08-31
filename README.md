@@ -2,6 +2,8 @@
 
 As i decided to learn by myself (although you are never by yourself, you need help from several talented minds that cross your path), i've choosen to follow curricular standards of a degree program in computer science and mix with things i would like to learn. In this [link](https://github.com/ossu/computer-science) you find some resources i used to build this learning path. (other resources: [every programmer should know](https://github.com/mtdvio/every-programmer-should-know), 
 
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+
 ### Contents
 
 1. [My projects](https://github.com/biancaguzenski/learning-path/blob/master/projects.md)
