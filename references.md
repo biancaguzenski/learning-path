@@ -28,11 +28,16 @@ Books and references i used while building projects/studying concepts.
 
 ## Computer Architecture
 
-## C language
+## C Language
 
 1. [Intro to C playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE)
 2. [Pointers playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2)
 3. [CS50 - intro to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+
+## Ruby Language
+
+1. IME classes in pdf - portuguese [I](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula01/aula01.pdf), [II](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula02/aula02.pdf), [III](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula03/aula03.pdf), [IV](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula04/aula04.pdf) and [Rails](https://www.ime.usp.br/~esposte/documents/aula-rails/aula01.pdf)
+2. [Learning Ruby the hard way](https://learnrubythehardway.org/book/)
 
 ## Computer Networking
 
@@ -49,3 +54,12 @@ Books and references i used while building projects/studying concepts.
 ## Git
 
 1. [Git](https://www.deployhq.com/git)
+
+## Criptography
+
+1. [Cripto course on coursera](https://www.coursera.org/learn/crypto/home/welcome)
+
+## Emacs
+
+1. [Newbie reference](https://www.emacswiki.org/emacs/EmacsNewbieKeyReference)
+2. [How to use emacs](https://zoo.cs.yale.edu/classes/cs210/help/emacs.html#:~:text=Emacs%20For%20the%20Dummies,-To%20run%20emacs&text=For%20example%2C%20to%20open%20a,type%20the%20%22return%22%20key.)
