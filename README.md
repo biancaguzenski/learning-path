@@ -2,6 +2,8 @@
 
 As i decided to learn by myself (although you are never by yourself, you need help from several talented minds that cross your path), i've choosen to follow curricular standards of a degree program in computer science and mix with things i would like to learn. In this [link](https://github.com/ossu/computer-science) you find some resources i used to build this learning path. (other resources: [every programmer should know](https://github.com/mtdvio/every-programmer-should-know), 
 
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+
 ### Contents
 
 1. [My projects](https://github.com/biancaguzenski/learning-path/blob/master/projects.md)
@@ -34,11 +36,11 @@ Although you can use any language to learn programming, C is a important tool fo
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
-| [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | |	70h | In progress | |
-| [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | |	60h	| | |
+| [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | This programming course takes a unique approach, as it focuses on learning a systematic programming method rather than a programming language. This practical approach will help you channel your creativity so that you can program well in any language. |	70h | In progress | [Repo] |
+| [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | As your program requirements get more complex, you will find that simple additions to the design method make it easy to write well-structured and well-tested code that is easy to maintain. |	60h	| Not started | [Repo] |
 | [Programming Languages, Part A - ML language](https://www.coursera.org/learn/programming-languages)	| This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones. This course will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. | 40h | In progress | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects/ML) |
-| [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| | 24h | | |
-| [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| | 24h | | |
+| [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| Concepts of programming languages, how using racket | 24h | Not started | [Repo] |
+| [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| Concepts of programming languages, how using ruby | 24h | Not started | Repo |
 
 [professional code](https://www.edx.org/course/writing-professional-code-advanced-topics)
 [web design](https://www.coursera.org/specializations/web-design)
