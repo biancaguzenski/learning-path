@@ -124,3 +124,11 @@
   * [Design thinking](https://www.edx.org/course/introduction-to-design-thinking)
   * [Data abstraction](https://www.edx.org/course/software-construction-data-abstraction)
   
+  
+  ## come back in the future
+  
+  1. http://lucianosousa.net/2019/02/03/como-comecar-open-source.html
+  2. https://github.com/turingschool/backend-curriculum-site
+  3. https://en.wikipedia.org/wiki/Regular_language
+  4. https://github.com/tokland/tokland/wiki/RubyFunctionalProgramming
+  5. 
