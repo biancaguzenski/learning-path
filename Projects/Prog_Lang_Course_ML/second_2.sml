@@ -35,6 +35,22 @@ fun max_constant e =
 
 val test_1 = Add(Constant 19, Negate(Constant 4))
 val nineteen = max_constant test_1
-			    
+
+			    (* type synonyms *)
+
+datatype suit = Club | Diamond | Heart | Spade
+datatype rank = Jack | Queen | King | Ace | Num of int
+type card = suit * rank
+type name_record = { student_num : int option,
+		     first       : string,
+		     middle      : string option,
+		     last        : string }
+fun is_queen_of_spade(c : card)=
+    #1 c = Spade andalso #2 c = Queen
+
+val c1 = (Diamond, Ace)
+val c2: suit*rank = (Heart, Ace)
+val c3 = (Spade, Ace)
+	    
 
 					    
