@@ -41,6 +41,11 @@
 3. [Rspec Tutorial - Ruby](https://www.tutorialspoint.com/rspec/rspec_writing_specs.htm)
 4. https://www.udacity.com/course/software-testing--cs258
 
+## ML/Standard ML
+
+1. [Online editor](https://sosml.org/editor)
+2. [Playlist on youtube - Standard ML](https://www.youtube.com/playlist?list=PLbdi8aNvDqlKKXdG7qn0rQsfH0z1hf7FC)
+
 
 ## Computer Networking
 
