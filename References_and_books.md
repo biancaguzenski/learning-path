@@ -33,6 +33,7 @@
 1. [Intro to C playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE)
 2. [Pointers playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2)
 3. [CS50 - Intro to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+4. [Using make](http://mrbook.org/blog/tutorials/make/)
 
 ## Ruby Language, ruby on rails
 
@@ -40,6 +41,13 @@
 2. [Learning Ruby the hard way](https://learnrubythehardway.org/book/)
 3. [Rspec Tutorial - Ruby](https://www.tutorialspoint.com/rspec/rspec_writing_specs.htm)
 4. https://www.udacity.com/course/software-testing--cs258
+
+## Operating systems
+
+1. [Tree easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+2. [Book 1](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333/ref=dp_ob_title_bk), [Book 2](https://www.amazon.com/Operating-Concepts-Essentials-Abraham-Silberschatz/dp/1118804929/ref=sr_1_1?s=books&ie=UTF8&qid=1415311059&sr=1-1&keywords=operating+system+concepts+essentials)
+3. [Nice playlist in portuguese](https://www.youtube.com/watch?v=CCHZ_06DoEA&list=PLxI8Can9yAHeK7GUEGxMsqoPRmJKwI9Jw&index=2)
+4. [Cs537](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
 
 
 ## Computer Networking
