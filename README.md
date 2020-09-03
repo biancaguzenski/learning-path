@@ -45,7 +45,6 @@ Although you can use any language to learn programming, C is a important tool fo
 | [Programming Languages, Part A - ML language](https://www.coursera.org/learn/programming-languages)	| This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones. This course will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. | 40h | In progress | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects/ML) |
 | [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| Concepts of programming languages, now using racket | 24h | Not started | [Repo] |
 | [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| Concepts of programming languages, now using ruby | 24h | Not started | [Repo] |
-| [Introduction to operating systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923?irclickid=SJOw0fXdFxyOTPAwUx0Mo3IQUkiVEmWCURUbWc0&irgwc=1&utm_source=affiliate&utm_medium=ads_n&aff=1459666) | This course teaches the basic operating system abstractions, mechanisms, and their implementations. The core of the course contains concurrent programming (threads and synchronization), inter process communication, and an introduction to distributed operating systems. | ? | Not started | [Repo] |
 
 [
 [professional code](https://www.edx.org/course/writing-professional-code-advanced-topics), 
@@ -64,7 +63,7 @@ Extra courses i took: [Ruby language I, II and II, Object oriented design with R
 |[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)|	65h | | |
 |[Build a Modern Computer from First Principles: Nand to Tetris Part II] |	100h | | |
 |[Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)| 70h |[Ass 1](https://github.com/PrincetonUniversity/COS461-Public/tree/master/assignments/assignment1) [Ass2](https://www.scs.stanford.edu/10au-cs144/lab/reliable/reliable.html) [Ass3](https://nptel.ac.in/content/storage2/courses/106105080/pdf/M2L7.pdf) [Ass4](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_TCP_v7.0.pdf) | In progress | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects/Networks_Stanford_Course)
-|[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) | | | | |
+| [Introduction to operating systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923?irclickid=SJOw0fXdFxyOTPAwUx0Mo3IQUkiVEmWCURUbWc0&irgwc=1&utm_source=affiliate&utm_medium=ads_n&aff=1459666) | Requires knoledge in C. This course teaches the basic operating system abstractions, mechanisms, and their implementations. The core of the course contains concurrent programming (threads and synchronization), inter process communication, and an introduction to distributed operating systems. | 50h | In progress | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects/Operat_Systems_Courses) |
 |[Computer architecture](https://www.coursera.org/learn/comparch) |||||
 
 ### Core theory
@@ -74,6 +73,8 @@ Extra courses i took: [Ruby language I, II and II, Object oriented design with R
 |--|--|--|--|--| 
 | [Algorithms I](https://www.coursera.org/learn/algorithms-part1) | Analysis of algorithms, union find, quick find, stack, queue, sorting algorithms, trees, hash and symbol tables | | Finished | [Repo](https://github.com/biancaguzenski/basic-algorithms-and-data-structures) |
 | [Algorithms II](https://www.coursera.org/learn/algorithms-part2) | | | In progress | [Repo] |
+
+ps.: acctualy i did the core theory module before core system. Here i prefered to put after because most of my references did the same.
 
 ### Core Security
 ##### Topics covered: Confidentiality, Integrity, Secure Design,  Defensive Programming, Threats and Attacks, Network Security, Cryptography and more
