@@ -1,7 +1,7 @@
 ## This repo is a diary/to do list of my learning path.
 
 As i decided to learn by myself (although you are never by yourself, you need help from several talented minds that cross your path), i've choosen to follow curricular standards of a degree program (UFRGS - Brasil) in computer science and mix with specific topics i would like to learn. Feel free to use this content to build your own learning path.
-In this [link](https://github.com/ossu/computer-science) you find some resources i used to build this learning path. (other resources: [every programmer should know](https://github.com/mtdvio/every-programmer-should-know), [teach yourself computer science](https://teachyourselfcs.com/))
+In this [link](https://github.com/ossu/computer-science) you find some resources i used to build this learning path. (other resources: [every programmer should know](https://github.com/mtdvio/every-programmer-should-know), [teach yourself computer science](https://teachyourselfcs.com/), [open source cs](https://github.com/ForrestKnight/open-source-cs))
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
@@ -18,8 +18,9 @@ In this [link](https://github.com/ossu/computer-science) you find some resources
 | [Code foundations - codecademy](https://www.codecademy.com/learn/paths/code-foundations) | This path will give you an introduction to the world of code and basic concepts. | Self paced | Finished | |
 | [The missing semester](https://missing.csail.mit.edu/) | This course goes over things CS courses usualy dont go over: command shell, version control, text editing, remote machines, finding files, data wrangling, virtual machines and security. | 24h, self paced | In progress | [Repo]() |
 | Code foundations with Ruby language (You can go for any language you like while learning code foundations, like C: [1](https://www.edx.org/course/c-programming-getting-started) and [2](https://www.edx.org/course/c-programming-language-foundations))| Programming and Ruby language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
+| [Basic math for CS](https://www.coursera.org/learn/what-is-a-proof?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-kNU3Cg9a7r2MC1Jliqp_ww&siteID=PtFMiHYfEVk-kNU3Cg9a7r2MC1Jliqp_ww&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Mathematical thinking: learn the most important tools used in discrete mathematics: induction, recursion, logic, invariants, examples, optimality. | 37h | In progress | [Repo]
 
-Coding challenge websites to practice code foundations: [Edabit](https://edabit.com/), [Freecodecamp](https://www.freecodecamp.org/), [Project Euler](https://projecteuler.net/)
+Coding challenge websites to practice code foundations: [Edabit](https://edabit.com/), [Freecodecamp](https://www.freecodecamp.org/), [Project Euler](https://projecteuler.net/)h
 
 Extra courses i took: [Linux](https://github.com/biancaguzenski/learning-path/blob/master/courses.md), [Git], [Vim]
 
@@ -44,6 +45,7 @@ Although you can use any language to learn programming, C is a important tool fo
 | [Programming Languages, Part A - ML language](https://www.coursera.org/learn/programming-languages)	| This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones. This course will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. | 40h | In progress | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects/ML) |
 | [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| Concepts of programming languages, now using racket | 24h | Not started | [Repo] |
 | [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| Concepts of programming languages, now using ruby | 24h | Not started | [Repo] |
+| [Introduction to operating systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923?irclickid=SJOw0fXdFxyOTPAwUx0Mo3IQUkiVEmWCURUbWc0&irgwc=1&utm_source=affiliate&utm_medium=ads_n&aff=1459666) | This course teaches the basic operating system abstractions, mechanisms, and their implementations. The core of the course contains concurrent programming (threads and synchronization), inter process communication, and an introduction to distributed operating systems. | ? | Not started | [Repo] |
 
 [
 [professional code](https://www.edx.org/course/writing-professional-code-advanced-topics), 
