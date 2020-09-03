@@ -45,6 +45,8 @@
 
 1. [Online editor](https://sosml.org/editor)
 2. [Playlist on youtube - Standard ML](https://www.youtube.com/playlist?list=PLbdi8aNvDqlKKXdG7qn0rQsfH0z1hf7FC)
+3. Book = [P1](https://www.cl.cam.ac.uk/~lp15/MLbook/PDF/chapter2.pdf), [P2](https://www.cl.cam.ac.uk/~lp15/MLbook/PDF/chapter3.pdf), [P3](https://www.cl.cam.ac.uk/~lp15/MLbook/PDF/chapter4.pdf), [P4](https://www.cl.cam.ac.uk/~lp15/MLbook/PDF/chapter5.pdf), [P5](https://www.cl.cam.ac.uk/~lp15/MLbook/PDF/chapter6.pdf)
+4. [Excercises on Sml](https://exercism.io/tracks/sml/exercises)
 
 
 ## Computer Networking
