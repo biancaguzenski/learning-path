@@ -1,5 +1,7 @@
 #lang racket
 
+(provide (all-defined-out))
+
 ; this is a comment
 
 (define s "Hello, world") ; define is keyword for defining variables and functions.
@@ -8,5 +10,13 @@
 
 (define y (+ x 2)) ; defining y using x
 
-(define (cube3 x) ; defining a function
+(define cube1 ; defining a function
+    (lambda (x) ; lambda is a keyword to function
+        (* x (* x x)))) ; you can either do cube this way, or next 3 ways
+
+(define cube2
+    (lambda (x)
+        (* x x x)))
+
+(define (cube3 x) ; defining a function without lambda keyword
     (* x x x))
