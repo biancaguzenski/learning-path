@@ -20,15 +20,7 @@
 (define (cube3 x) ; defining a function without lambda keyword
     (* x x x))
 
-(define (pow1 x y) ; defining x to the power of y
+(define (pow1 x y)
     (if (= y 0)
         1
-        (* x (pow1 x(- y 1)))))
-
-(define pow2 ; another option of pow, using pow 1
-  (lambda (x) ; pow2 takes a function with an arg x, its body is the other lambda
-    (lambda (y) ; body of lambda x 
-      (pow1 x y)))) ; and body of lambda y calls pow 1
-
-(define answer (pow2 3))
-  
+        (* x (pow1 x(- y 1)))
