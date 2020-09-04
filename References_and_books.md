@@ -42,6 +42,10 @@
 3. [Rspec Tutorial - Ruby](https://www.tutorialspoint.com/rspec/rspec_writing_specs.htm)
 4. https://www.udacity.com/course/software-testing--cs258
 
+## Racket language
+
+1. [Documentation](https://docs.racket-lang.org/index.html)
+
 ## Operating systems
 
 1. [Tree easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
