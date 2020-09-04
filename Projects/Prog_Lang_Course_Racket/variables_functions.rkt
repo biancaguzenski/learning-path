@@ -1,6 +1,6 @@
 #lang racket
 
-(provide (all-defined-out))
+; (provide (all-defined-out))
 
 ; this is a comment
 
@@ -13,10 +13,14 @@
 (define cube1 ; defining a function
     (lambda (x) ; lambda is a keyword to function
         (* x (* x x)))) ; you can either do cube this way, or next 3 ways
-
 (define cube2
     (lambda (x)
         (* x x x)))
 
 (define (cube3 x) ; defining a function without lambda keyword
     (* x x x))
+
+(define (pow1 x y)
+    (if (= y 0)
+        1
+        (* x (pow1 x(- y 1)))))
