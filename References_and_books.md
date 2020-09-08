@@ -1,5 +1,10 @@
 ## Books and references i used while building projects/studying concepts.
 
+### Basics
+
+1. [Book: how to count](https://www.goodreads.com/book/show/12093869-how-to-count)
+2. [What every programmer should know about memory](https://lwn.net/Articles/250967/)
+
 ### Pibs Language, compilers, interpreters
 1. [Compilers: Principles, Techniques, and Tools](https://github.com/biancaguzenski/learning-path/blob/master/summaries/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles%2C%20Techniques%2C%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
 2. [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/Writing-Compilers-Interpreters-Software-Engineering/dp/0470177071/ref=sr_1_1?dchild=1&keywords=Writing+Compilers+and+Interpreters%3A+A+Software+Engineering+Approach&qid=1595966615&s=books&sr=1-1)
@@ -116,7 +121,8 @@
  3. [Tutorial number theory](https://www.codechef.com/wiki/tutorial-number-theory/)
  4. [10 rules of a zen programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
  5. [Learn in x in y minutes - good way to remember syntax of a language you already know](https://learnxinyminutes.com/)
- 6. []() 
+ 6. [Map of computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 
+ 7. [Learn Regex the easy way](https://github.com/ziishaned/learn-regex)
   - SEO
   https://katemats.com/what-every-programmer-should-know-about-seo/
 
