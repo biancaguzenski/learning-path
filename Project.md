@@ -1,10 +1,12 @@
 ## Here i store some projects i built while on my learning path
 
+Interpreter
+
 | Project | Info | References | Repo | Status |
 | -- | -- | -- | -- | -- |
-| .pibslang | .pibslang is an interpreter built with ruby | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/pibs-lang) | In progress |
+| .pibslang | Pibs is an interpreter for Pibs Language built with ruby. | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/pibs-lang) | In progress |
 
-Alura projects
+Games
 
 | Project | Info | References | Repo | Status |
 | -- | -- | -- | -- | -- |
