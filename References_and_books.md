@@ -1,5 +1,10 @@
 ## Books and references i used while building projects/studying concepts.
 
+### Basics
+
+1. [Book: how to count](https://www.goodreads.com/book/show/12093869-how-to-count)
+2. [What every programmer should know about memory](https://lwn.net/Articles/250967/)
+
 ### Pibs Language, compilers, interpreters
 1. [Compilers: Principles, Techniques, and Tools](https://github.com/biancaguzenski/learning-path/blob/master/summaries/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles%2C%20Techniques%2C%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
 2. [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/Writing-Compilers-Interpreters-Software-Engineering/dp/0470177071/ref=sr_1_1?dchild=1&keywords=Writing+Compilers+and+Interpreters%3A+A+Software+Engineering+Approach&qid=1595966615&s=books&sr=1-1)
@@ -26,27 +31,31 @@
 2. [Berkeley lectures](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
 3. [Book - Conceitos de linguagens de programação](https://www.amazon.com.br/Conceitos-Linguagens-Programa%C3%A7%C3%A3o-Robert-Sebesta/dp/8582604688/ref=asc_df_8582604688/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=6461010631478211998&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-812887616297&psc=1)
 
-### Computer Architecture
+### Programming languages - ruby, standard ml, racket, c, tools
 
-### C Language, C++
+#### Standard ML
+1. [Contains links to books and lectures](https://www.smlnj.org/doc/literature.html)
+2. [Very nice youtube playlist on learning sml](https://www.youtube.com/watch?v=2sqjUWGGzTo&list=PLbdi8aNvDqlKKXdG7qn0rQsfH0z1hf7FC)
+
+#### C Language, C++
 
 1. [Intro to C playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE)
 2. [Pointers playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2)
 3. [CS50 - Intro to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
 4. [Using make](http://mrbook.org/blog/tutorials/make/)
 
-## Ruby Language, ruby on rails
+#### Ruby Language, ruby on rails
 
 1. IME classes in pdf - portuguese [I](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula01/aula01.pdf), [II](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula02/aula02.pdf), [III](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula03/aula03.pdf), [IV](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula04/aula04.pdf) and [Rails](https://www.ime.usp.br/~esposte/documents/aula-rails/aula01.pdf)
 2. [Learning Ruby the hard way](https://learnrubythehardway.org/book/)
 3. [Rspec Tutorial - Ruby](https://www.tutorialspoint.com/rspec/rspec_writing_specs.htm)
 4. https://www.udacity.com/course/software-testing--cs258
 
-## Racket language
+#### Racket language
 
 1. [Documentation](https://docs.racket-lang.org/index.html)
 
-## Operating systems
+### Operating systems
 
 1. [Tree easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 2. [Book 1](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1118063333/ref=dp_ob_title_bk), [Book 2](https://www.amazon.com/Operating-Concepts-Essentials-Abraham-Silberschatz/dp/1118804929/ref=sr_1_1?s=books&ie=UTF8&qid=1415311059&sr=1-1&keywords=operating+system+concepts+essentials)
@@ -54,7 +63,7 @@
 4. [Cs537](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)
 
 
-## Computer Networking
+### Computer Networking
 
 1. [Course info, lab assignments](https://cs144.github.io/), [Course page 2](https://www.scs.stanford.edu/10au-cs144/)
 2. [Youtube playlist - Standford course](https://www.youtube.com/watch?v=-nciJGUPyAM&list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z&index=1)
@@ -71,21 +80,21 @@
  9. https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536
 
 
-## Linux, vim, editors
+### Linux, vim, emacs and editors in general
 
 1. [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 2. [Command line power use](https://commandlinepoweruser.com/)
 3. [Newbie reference - using emacs](https://www.emacswiki.org/emacs/EmacsNewbieKeyReference)
 2. [How to use emacs](https://zoo.cs.yale.edu/classes/cs210/help/emacs.html#:~:text=Emacs%20For%20the%20Dummies,-To%20run%20emacs&text=For%20example%2C%20to%20open%20a,type%20the%20%22return%22%20key.)
 
-## Front-end
+### Front-end
 1. https://learn.shayhowe.com/advanced-html-css/
 
-## Git
+### Git
 
 1. [Git](https://www.deployhq.com/git)
 
-## Criptography, security
+### Criptography, security
 
 1. [Cripto course on coursera](https://www.coursera.org/learn/crypto/home/welcome)
 2. https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227
@@ -105,21 +114,18 @@
 
 1. https://www.edx.org/course/software-construction-object-oriented-design
 
+### Miscellaneous, nice links, stuff i read when i was bored
 
-### Not sure where yet
-  - Floating points
-  https://floating-point-gui.de/
-  - Unicode
-  https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
-  - Tutorial number theory
-  https://www.codechef.com/wiki/tutorial-number-theory/
-
+ 1. [Floating points](https://floating-point-gui.de/)
+ 2. [The minimum you must know about Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+ 3. [Tutorial number theory](https://www.codechef.com/wiki/tutorial-number-theory/)
+ 4. [10 rules of a zen programmer](https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html)
+ 5. [Learn in x in y minutes - good way to remember syntax of a language you already know](https://learnxinyminutes.com/)
+ 6. [Map of computer science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 
+ 7. [Learn Regex the easy way](https://github.com/ziishaned/learn-regex)
   - SEO
   https://katemats.com/what-every-programmer-should-know-about-seo/
-  - ZEN
-  https://www.zenprogrammer.org/en/10-rules-of-a-zen-programmer.html
-  - Learn x in y minutes
-  https://learnxinyminutes.com/
+
   
   * [Questões sobre carreira](https://www.akitaonrails.com/2019/12/11/akitando-69-respondendo-suas-perguntas-sobre-carreira-via-instagram)
   * [Remote](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview#gid=1279011369)

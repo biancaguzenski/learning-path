@@ -7,7 +7,7 @@ In this [link](https://github.com/ossu/computer-science) you find some resources
 
 ### Personal repos
 
-1. [My projects](https://github.com/biancaguzenski/learning-path/blob/master/projects.md)
+1. [My projects](https://github.com/biancaguzenski/learning-path/blob/master/Project.md)
 2. [List - Finished courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
 
 ### Introduction to programming
