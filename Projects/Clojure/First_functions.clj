@@ -5,3 +5,7 @@
 (println "Total = " total-of-items)
 
 (println (+ 1 1))
+
+(def test_variable total-of-items)
+
+(println test_variable)
