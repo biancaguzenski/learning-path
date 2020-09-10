@@ -1,9 +1,0 @@
-(* studying file *)
-
-(* function to return lenght of list *)
-
-fun lenght x=
-    if null x
-    then 0
-    else
-	1 + lenght(tl x)
