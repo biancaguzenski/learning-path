@@ -1,14 +1,16 @@
 ## This repo is a diary/to do list of my learning path.
 
-As i decided to learn by myself (although you are never by yourself, you need help from several talented minds that cross your path), i've choosen to follow curricular standards of a degree program (UFRGS - Brasil) in computer science and mix with specific topics i would like to learn. Feel free to use this content to build your own learning path.
+As I decided to learn by myself (although you are never by yourself, you need help from several talented minds that cross your path), i've choosen to follow curricular standards of a degree program (UFRGS - Brasil) in computer science and mix with specific topics i would like to learn. Feel free to use this content to build your own learning path.
 In this [link](https://github.com/ossu/computer-science) you find some resources i used to build this learning path. (other resources: [every programmer should know](https://github.com/mtdvio/every-programmer-should-know), [teach yourself computer science](https://teachyourselfcs.com/), [open source cs](https://github.com/ForrestKnight/open-source-cs))
+
+(This content is currently in development process)
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
 ### Personal repos
 
 1. [My projects](https://github.com/biancaguzenski/learning-path/blob/master/Project.md)
-2. [List - Finished courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
+2. [List - Finished courses](https://github.com/biancaguzenski/learning-path/blob/master/Courses_list.md)
 
 ### Introduction to programming
 ##### Topics covered: simple programs, simple data structures, CS tools, ruby
@@ -17,8 +19,8 @@ In this [link](https://github.com/ossu/computer-science) you find some resources
 |--|--|--|--|--|
 | [Code foundations - codecademy](https://www.codecademy.com/learn/paths/code-foundations) | This path will give you an introduction to the world of code and basic concepts. | Self paced | Finished | |
 | [The missing semester](https://missing.csail.mit.edu/) | This course goes over things CS courses usualy dont go over: command shell, version control, text editing, remote machines, finding files, data wrangling, virtual machines and security. | 24h, self paced | In progress | [Repo]() |
-| Code foundations with Ruby language (You can go for any language you like while learning code foundations, like C: [1](https://www.edx.org/course/c-programming-getting-started) and [2](https://www.edx.org/course/c-programming-language-foundations))| Programming and Ruby language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
-| [Basic math for CS](https://www.coursera.org/learn/what-is-a-proof?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-kNU3Cg9a7r2MC1Jliqp_ww&siteID=PtFMiHYfEVk-kNU3Cg9a7r2MC1Jliqp_ww&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Mathematical thinking: learn the most important tools used in discrete mathematics: induction, recursion, logic, invariants, examples, optimality. | 37h | In progress | [Repo]
+| Code foundations with Ruby language (You can go for any language you like while learning code foundations, like C: [1](https://www.edx.org/course/c-programming-getting-started) and [2](https://www.edx.org/course/c-programming-language-foundations))| Programming and Ruby language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/Courses_list.md) |
+| [Basic math for CS](https://www.coursera.org/learn/what-is-a-proof?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-kNU3Cg9a7r2MC1Jliqp_ww&siteID=PtFMiHYfEVk-kNU3Cg9a7r2MC1Jliqp_ww&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Mathematical thinking: learn the most important tools used in discrete mathematics: induction, recursion, logic, invariants, examples, optimality. | 37h | - | [Repo]
 
 Coding challenge websites to practice code foundations: [Edabit](https://edabit.com/), [Freecodecamp](https://www.freecodecamp.org/), [Project Euler](https://projecteuler.net/)h
 
@@ -31,7 +33,7 @@ Optional: [CS50 - understanding tech](https://www.edx.org/course/cs50s-understan
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
-| [Intro to computer science using C](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) | Programming and C language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) |
+| [Intro to computer science using C](https://github.com/biancaguzenski/learning-path/blob/master/courses.md) | Programming and C language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/Courses_list.md) |
 
 Although you can use any language to learn programming, C is a important tool for you to understand how things really happen under the hood (like memory allocation).
 
@@ -40,18 +42,11 @@ Although you can use any language to learn programming, C is a important tool fo
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
-| [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | (Very basic stuff, if you programmed before it might be a little slow) - This programming course takes a unique approach, as it focuses on learning a systematic programming method rather than a programming language. This practical approach will help you channel your creativity so that you can program well in any language. |	70h | Finished | |
-| [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | As your program requirements get more complex, you will find that simple additions to the design method make it easy to write well-structured and well-tested code that is easy to maintain. |	60h	| Finished | |
-| [Programming Languages, Part A - ML language](https://www.coursera.org/learn/programming-languages)	| This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones. This course will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. | 40h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects/ML) |
-| [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| Concepts of programming languages, now using racket | 24h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects/Prog_Lang_Course_Racket) |
-| [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| Concepts of programming languages, now using ruby | 24h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects/Prog_Lang_Course_Ruby) |
-
-[
-[professional code](https://www.edx.org/course/writing-professional-code-advanced-topics), 
-[web design](https://www.coursera.org/specializations/web-design), 
-[cs courses](https://github.com/ForrestKnight/open-source-cs)
-]
-
+| [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | (Very basic stuff, if you programmed before it might be a little slow) - This programming course takes a unique approach, as it focuses on learning a systematic programming method rather than a programming language. This practical approach will help you channel your creativity so that you can program well in any language. |	50h | Finished | |
+| [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | As your program requirements get more complex, you will find that simple additions to the design method make it easy to write well-structured and well-tested code that is easy to maintain. |	40h	| Finished | |
+| [Programming Languages, Part A - ML language](https://www.coursera.org/learn/programming-languages)	| This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones. This course will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. | 40h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects) |
+| [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| Concepts of programming languages, now using racket | 24h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects) |
+| [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| Concepts of programming languages, now using ruby | 24h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects) |
 
 Extra courses i took: [Ruby language I, II and II, Object oriented design with Ruby](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
 
@@ -76,7 +71,7 @@ Extra courses i took: [Ruby language I, II and II, Object oriented design with R
 
 ps.: acctualy i did the core theory module before core system. Here i prefered to put after because most of my references did the same.
 
-### Core Security
+### Core Security // SOON
 ##### Topics covered: Confidentiality, Integrity, Secure Design,  Defensive Programming, Threats and Attacks, Network Security, Cryptography and more
 
 | Course | Info | Duration/Effort | Status | Repo |
@@ -86,14 +81,14 @@ ps.: acctualy i did the core theory module before core system. Here i prefered t
 | [Secure coding principles](https://www.coursera.org/learn/secure-coding-principles) | | 16h ||
 | [Identifying security vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | | 16h ||
 
-### Core applications
+### Core applications // SOON
 
-Topics covered: Agile methodology, REST, software specifications, refactoring, relational databases, transaction processing, data modeling, neural networks, supervised learning, unsupervised learning, OpenGL, raytracing and more
+Topics covered:
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
 
-### Advanced topics
+### Advanced topics // SOON
 
 | Course | Info | Duration/Effort | Status | Repo |
 |--|--|--|--|--| 
