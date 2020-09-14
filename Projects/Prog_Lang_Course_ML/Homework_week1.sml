@@ -1,15 +1,17 @@
 fun is_older(pr1: int*int*int, pr2: int*int*int)=
-    if #1 pr1 < #1 pr2
+   if (#1 pr1) < (#1 pr2) 
     then true
+    else if(#1 pr1) > (#1 pr2)
+    then false
     else
-	if #2 pr1 < #2 pr2
-	then true
-	else if #2 pr1 > #2pr2
-	then false
-	else
-	    if #3 pr1 < #3 pr2
-	    then true
-	    else false
+        if (#2 pr1) < (#2 pr2)
+        then true
+        else if(#2 pr1) > (#2 pr2)
+        then false
+        else
+            if(#3 pr1) < (#3 pr2)
+            then true
+            else false
 		     
 
 fun number_in_month(x: (int*int*int) list, y: int)=
@@ -44,13 +46,13 @@ fun dates_in_month(x: (int*int*int) list, y: int)=
 	if #2 (hd x) = y
 	then hd x :: dates_in_month(tl x, y)
 	else
-	    []
+	    dates_in_month(tl x, y)
 
 fun dates_in_months(x: (int*int*int) list, y: int list)=
 	if null y
 	then []
 	else
-	    dates_in_month(x, hd y) @ dates_in_months(tl x, tl y)
+	    dates_in_month(x, hd y) @ dates_in_months(x, tl y)
 
 fun get_nth(x: string list, y: int)=
     if null x
@@ -85,24 +87,11 @@ fun number_before_reaching_sum(sum: int, list: int list)=
     else
 	0
 	    
-fun what_month(x: int)=
-    let val month = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+fun what_month(day: int)=
+    let
+        val days_in_months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     in
-	let val day = [31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334, 356]
-	in
-	    let fun helper(x: int, month: int list, day: int list)=
-		if null month orelse null day
-		then 0
-		else
-		    if x <= hd day
-		    then hd month
-		    else
-			helper(x, tl month, tl day)
-	    in
-		helper(x, month, day)
-	    end
-		
-	end
+        number_before_reaching_sum(day, days_in_months) + 1
     end
 
 fun month_range(x: int, y: int)=

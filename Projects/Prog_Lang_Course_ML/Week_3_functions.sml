@@ -53,7 +53,9 @@ fun times_until_zero (f, x)=
 fun triple_n_times (n, x)=
     n_times((fn x => 3*x), n, x)
 
-	   (* map - a function that iterates over every item on the list modifying them accordingly *)
+(* map - a function that iterates over every item on the list modifying them accordingly *)
+
+	   (* iterator-like structures *)
 
 fun map (f, xs)= (* built in function for this: List.map *)
     case xs of
@@ -74,4 +76,19 @@ fun is_even x=
     x mod 2 = 0
 
 fun all_even x = filter(is_even, x)
-		       
+
+		     
+fun fold (f, acc, xs) = (* fold is also called inject or reduce: function that accumulates an answer by repeatedly applying f to answer so far *) (* The reduce() method executes a provided function for each value of the array (from left-to-right). The return value of the function is stored in an accumulator (result/total). *)
+    case xs of
+	[] => acc
+      | x::xs => fold(f, f(acc, x), xs)
+
+fun f1 xs = fold ((fn (x, y) => x+y), 0, xs) (* sum list *)
+
+fun f2 xs = fold ((fn (x, y) => x andalso y >= 0), true, xs) (* are all elements on the list non-negative? *)
+
+fun f3 (xs, lo, hi)=
+    fold ((fn (x, y) =>
+	      x + (if y >= lo andalso y <= hi then 1 else 0)), 0, xs) (* counting the numbers between lo and hi inclusive *)
+		 
+		      
