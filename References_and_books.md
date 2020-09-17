@@ -54,6 +54,7 @@
 #### Racket language
 
 1. [Documentation](https://docs.racket-lang.org/index.html)
+2. [Cool guide](https://beautifulracket.com/)
 
 ### Operating systems
 
