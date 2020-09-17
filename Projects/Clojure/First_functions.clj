@@ -9,3 +9,6 @@
 (def test_variable total-of-items)
 
 (println test_variable)
+
+(def estoque ["mochila", "camiseta"])
+
