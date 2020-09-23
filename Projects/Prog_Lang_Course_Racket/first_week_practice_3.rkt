@@ -26,6 +26,6 @@
                                        (+ (f (- x 1))
                                           (f (- x 2))))])
                       (begin
-                        (set! memo (cons (cons new-ans) memo))
+                        (set! memo (cons (cons x new-ans) memo))
                         new-ans)))))]) ; after computating the new-ans, put it inside of memo and returns it
     f))
