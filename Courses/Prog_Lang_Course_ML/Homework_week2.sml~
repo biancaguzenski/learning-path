@@ -1,0 +1,2 @@
+fun only_capitals list=
+    List.filter (fn lst => Char.isUpper(String.sub(str, 0))) list
