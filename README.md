@@ -9,7 +9,7 @@ In this [link](https://github.com/ossu/computer-science) you find some resources
 
 ### Personal repos
 
-1. [My projects](https://github.com/biancaguzenski/learning-path/blob/master/Project.md)
+1. [My projects](https://github.com/biancaguzenski/learning-path/tree/master/Projects)
 2. [List - Finished courses](https://github.com/biancaguzenski/learning-path/blob/master/Courses_list.md)
 
 ### Introduction to programming
@@ -44,11 +44,11 @@ Although you can use any language to learn programming, C is a important tool fo
 |--|--|--|--|--| 
 | [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | (Very basic stuff, if you programmed before it might be a little slow) - This programming course takes a unique approach, as it focuses on learning a systematic programming method rather than a programming language. This practical approach will help you channel your creativity so that you can program well in any language. |	50h | Finished | |
 | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | As your program requirements get more complex, you will find that simple additions to the design method make it easy to write well-structured and well-tested code that is easy to maintain. |	40h	| Finished | |
-| [Programming Languages, Part A - ML language](https://www.coursera.org/learn/programming-languages)	| This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones. This course will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. | 40h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects) |
-| [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| Concepts of programming languages, now using racket | 24h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects) |
-| [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| Concepts of programming languages, now using ruby | 24h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects) |
+| [Programming Languages, Part A - ML language](https://www.coursera.org/learn/programming-languages)	| This course is an introduction to the basic concepts of programming languages, with a strong emphasis on functional programming. The course uses the languages ML but the real intent is to teach enough about how any language “fits together” to make you more effective programming in any language -- and in learning new ones. This course will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. | 40h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Courses) |
+| [Programming Languages, Part B - Racket language](https://www.coursera.org/learn/programming-languages-part-b)	| Concepts of programming languages, now using racket | 24h | In progress | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Courses) |
+| [Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| Concepts of programming languages, now using ruby | 24h | | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Courses) |
 
-Extra courses i took: [Ruby language I, II and II, Object oriented design with Ruby](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
+Extra courses I took: [Ruby language I, II and II, Object oriented design with Ruby](https://github.com/biancaguzenski/learning-path/tree/master/Courses)
 
 ### Core systems
 ##### Topics covered: procedural programming, manual memory management, boolean algebra, gate logic, memory computer architecture, assembly, machine language, virtual machines, high-level languages, compilers, operating systems, network protocols and more
