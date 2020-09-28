@@ -55,6 +55,7 @@
 
 1. [Documentation](https://docs.racket-lang.org/index.html)
 2. [Cool guide](https://beautifulracket.com/)
+3. [Realm of racket book](https://www.amazon.com.br/Realm-Racket-Learn-Program-Game/dp/1593274912)
 
 ### Operating systems
 
