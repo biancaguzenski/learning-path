@@ -31,3 +31,32 @@ To operate on these abstractions, the operating system may incorporate mechanism
 Operating systems may also integrate specific policies that determine exactly how these mechanisms will be used to manage the underlying hardware.
 For instance, a policy can control what is the maximum number of sockets that a process can actually have access to. (like least-recently used, earliest deadline first.
 Or they may control which data will be removed from physical memory, for instance, based on some algorithm like least-recently used.
+
+OS manages resources like memory, so let's look at a memory management example.
+To do that, OS uses a memory page as an abstraction and this memory page corresponds to some adressable region of memory of some fixed size. OS integrates some mechanisms to operate on that page and allocate in DRAM and map it into the adress piece of the process.
+It allows the process to access actyal physical memory. Sometimes the page is moved to different locations of physical memory and sometimes it is stored in disk. The policies helps OS to decides where the contents of this page will be stored. A common policy is that pages that have been least recently used over a period of time are the ones that will be copied on hard disk. Those are called swappings. The ones that have been accessed more frequently are more important and that is why we maintain them in memory.
+
+2) Design principles
+
+Separation between mechanisms and policies - incorporate into the OS flexible mechanisms that support a range of policies. For memory management, we could use least recently used, least frequently used, random - we need a way to track the frequency of the time when memory locations have been accessed.
+
+
+To achieve its role in controlling hardware, OS must have special privileges (aka direct access to hardware) which is something normal applications dont have. To have direct access to hardware, there are two modes: privileged kernel mode and unprivileged/user mode. For this, in kernel mode there is a special bit set in cpu and if this bit is set, any instruction that direct manipulates CPU is allowed.
+If user mode try to perform that, it will cause a trap: the app will be interrupted and hardware will switch the control to the OS at a specific location. OS will check what caused that trap and see if should grant access or if should terminate the process in case it is something illegal. Interface is the system exported by OS to allow interaction between apps and hardware.
+
+3) system calls
+
+We will start by assuming we are currently in an executing user process. The process needs some hardware access, so it makes a system call. On system call, control is passed to the OS and OS will perform the operation and return the result to the process. This calls involves changing the execution context from the user process to that of the OS kernel (passing arguments), and jump to the memory so you can go throught the instruction sequence your call needs. This is not a cheap operation (making a sys call).
+
+In summary, user/kernel transitions are a necessary step. Apps may need to perform access to hardware, and only OS can perform that. 
+Performing all of this, despite of the fact that hardware provides support, still takes a number of instructions.
+For instance, on a two gigahertz machine running Linux,it can take 50 to 100 nanoseconds to perform all the operations that are necessary around a user/kernel transition. This is real time, real overhead for the system.
+The other problem with these transitions is they affect the hardware cache usage. The application performance is very dependent on the ability to use the hardware cache. If accessing cache is order a few cycles, accessing memory can be order of hundreds of cycles.
+When we perform a system call, or in general when we cross into the operating system, the operating system, while executing, will likely bring content that it needs in the cache. This will replace some of the application content that was in the hardware cache before that transition was performed. And, so this will have some impact on the application performance, because it will no longer be able to access its data in cache, it will have to go to memory. In summary, these user/kernel transitions, they're not cheap.
+
+An OS provides apps access to hardware by exporting a number of services. These services are directly linked to some components of hardware. For instance, there is a scheduling component responsible for controlling the access to the cpu. The memory manager is responsible for allocating the underlying physical memory to one or more co-running applications. And it also has to make sure that multiple applications don't overwrite each other's accesses to memory. A block device driver is responsible for access to a block device like disk. In addition, the operating system also exports higher-level services that are linked with higher-level abstractions, as opposed to those that are linked with abstractions that really map to the hardware.
+All services will be available via system calls, like:
+To send a signal to a process, there is a system called kill.
+To set the group identity of a process, there is a system called SETGID.
+Mounting a file system is done via the mount system call.
+And finally reading or writing system parameters is done via the system control system call, SYSCTL.
