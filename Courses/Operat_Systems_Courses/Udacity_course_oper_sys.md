@@ -60,3 +60,28 @@ To send a signal to a process, there is a system called kill.
 To set the group identity of a process, there is a system called SETGID.
 Mounting a file system is done via the mount system call.
 And finally reading or writing system parameters is done via the system control system call, SYSCTL.
+
+
+4) OS organizations/Estruturas - 4 types
+
+- Monilithic design: this design is when every possible service that any app can require is already part of the OS. This OS include several possible file systems and the workload is sequentially accessing files when reading and writing them. This can make the OS really large. The benfit for	 this approach is that everything is in the OS already - the abstractions, the services, everything is packaged at the same time. The downside is that there is too much state, hard to mantain and debug and upgrade - this require memory and can impact the performance.
+Monolítico: so = BLOCO INTEIRO - tudo ocorre no modulo kernel e reage com o modulo usuário - unix, windows - O sistema operacional é escrito como um conjunto de rotinas, cada uma das quais podendo chamar qualquer uma das outras sempre que precisar. Quando essa técnica é utilizada, cada rotina do sistema tem uma interface bem-defi nida em termos de parâmetros e de resultados e cada uma está livre para chamar qualquer uma das outras, se a última fornecer alguma computação útil de que a primeira precise.
+- Microkernel - diminui o tamanho do bloco de so e a principal parte é a porção de comunicação - minix e symbian
+- Camadas - so modular com hierarquia - dividir em diversos mini modulos com diversas funcionalidades - interface definida pra que os niveis conversem - openvms e multics
+- Maquina virtual - camada intermediária que permite comunicação com diversos sistemas diferentes - vm370 com um cms, maquina virtual do java
+
+Arquiteturas
+Monoprogramado/multitarefa - não sofisticado, um unico programa, simples - sensores, sist. embarcados, relogios etc
+   - processador e memória dedicados a um unico programa
+   - recursos mal utilizados - disco ocioso ou cpu ociosa - não usa todos os recursos disponíveis
+   - programa em tres estados - execução, espera, terminado
+   - vantagem: simplicidade, implementação mais simples
+Multiprogramado/multitarefa - conjunto de tarefas, porção gerencial se divide entre n programas - faz a máquina ficar menos ociosa
+   - SO's atualmente - voltada para o ambiente multicore e com suporte pra essas diversas tarefas ao mesmo tempo
+   - Multiplas tarefas -  tarefas concorrentes - processo otimizado
+   - Sistemas em batch(lote) - lote de tarefas pra executar - ordem sequencial para execução (makefile: uma execução em lote)
+   - S. de tempo compartilhado - interativo - reage com vários terminais/microcomputadores - mainframe é o computador que permite essa interação - computador de grande porte que permite o compartilhamento
+   - S. de tempo real - tempo crítico para ser executado
+   
+
+
