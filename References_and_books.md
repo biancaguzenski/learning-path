@@ -56,6 +56,7 @@
 1. [Documentation](https://docs.racket-lang.org/index.html)
 2. [Cool guide](https://beautifulracket.com/)
 3. [Realm of racket book](https://www.amazon.com.br/Realm-Racket-Learn-Program-Game/dp/1593274912)
+4. [Unit testing- Rackunit](https://docs.racket-lang.org/rackunit/)
 
 ### Operating systems
 
@@ -111,6 +112,10 @@
   https://www.edx.org/course/probability-the-science-of-uncertainty-and-data
   https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm
+  
+### Assembly
+
+ 1. [Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
   
 ### Object-oriented design
 
