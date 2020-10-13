@@ -108,39 +108,19 @@
         
 ;; Problem 3
 
-(define (ifaunit e1 e2 e3)
-  (ifgreater (isaunit e1) (int 0) e2 e3))
+(define (ifaunit e1 e2 e3) "CHANGE")
 
-(define (mlet* lstlst e2)
-  (if (null? lstlst)
-      e2
-      (let ([next-binding (car lstlst)]
-            [remaining-bindings (cdr lstlst)])
-      (mlet (car next-binding) (cdr next-binding) (mlet* remaining-bindings e2)))))
+(define (mlet* lstlst e2) "CHANGE")
 
-(define (ifeq e1 e2 e3 e4)
-  (mlet* (list (cons "_x" e1) (cons "_y" e2))
-         (ifgreater (var "_x") (var "_y") e4
-                    (ifgreater (var "_y") (var "_x") e4 e3))))
+(define (ifeq e1 e2 e3 e4) "CHANGE")
 
 ;; Problem 4
 
-(define mupl-map
-  (fun #f "func"
-       (fun "mapr" "lst"
-            (ifaunit (var "lst")
-                     (aunit)
-                     (apair 
-                      (call (var "func") (fst (var "func")))
-                      (call (var "mapr") (snd (var "lst")))))
-            )))
+(define mupl-map "CHANGE")
 
 (define mupl-mapAddN 
   (mlet "map" mupl-map
-        (fun #f "increment"
-             (call (var "map")
-                   (fun #f "curnum" (add (var "increment")
-                                         (var "curnum")))))))
+        "CHANGE (notice map is now in MUPL scope)"))
 
 ;; Challenge Problem
 
@@ -155,5 +135,6 @@
 ;; copy most of your interpreter here and make minor changes
 (define (eval-under-env-c e env) "CHANGE")
 
+;; Do NOT change this
 (define (eval-exp-c e)
   (eval-under-env-c (compute-free-vars e) null))
