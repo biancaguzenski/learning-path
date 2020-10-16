@@ -25,4 +25,6 @@ int main() {
     }
     return 0;
     /* Here we use wait function wait() */
+    /* In this example (p2.c), the parent process calls wait() to delay its execution until 
+    the child finishes executing. When the child is done, wait() returns to the parent. */
 }
