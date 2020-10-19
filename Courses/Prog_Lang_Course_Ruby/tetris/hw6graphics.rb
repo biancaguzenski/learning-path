@@ -1,4 +1,4 @@
-# based on original file:
+# Based on original file:
 # University of Washington, Programming Languages, Homework 6, hw6graphics.rb
 
 # Swing backend for jruby
@@ -13,7 +13,7 @@ class TetrisRoot
     @root = javax.swing.JFrame.new("Tetris")
     contentPane = javax.swing.JPanel.new
     contentPane.setOpaque(true)
-    contentPane.setBackground(TetrisColors.get_color("black"))
+    contentPane.setBackground(TetrisColors.get_color("Gold"))
     contentPane.setPreferredSize(java.awt.Dimension.new(205, 615))
     contentPane.setLayout(nil)
     @root.setContentPane(contentPane)
@@ -207,7 +207,7 @@ class TetrisColors
     'Purple3'=> java.awt.Color.new(125, 38, 205), 
     'OrangeRed2' => java.awt.Color.new(238, 64, 0),
     'LightSkyBlue' => java.awt.Color.new(135, 206, 250),
-    'white' => java.awt.Color.new(255, 255, 255),
+    'white' => java.awt.Color.new(255, 255, 250),
     'black' => java.awt.Color::BLACK}
 end
 

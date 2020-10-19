@@ -1,6 +1,6 @@
 require_relative './hw6graphics'
 
-class Piece # Pieces of tetris + its movements
+class Piece # Defines pieces of tetris + its movements
   
   def initialize (point_array, board)
     @all_rotations = point_array # where the piece is created
@@ -258,20 +258,19 @@ end
 
 class Tetris
 
-  # creates the window and starts the game
   def initialize
     @root = TetrisRoot.new # creates window
     @timer = TetrisTimer.new 
     set_board # create canvas, create new piece
-    @running = true
-    key_bindings
-    buttons
-    run_game
+    @running = true # game is running
+    key_bindings # which key to each movement
+    buttons # allow GUI buttons to exist
+    run_game # starts
   end
 
   # creates a canvas and the board that interacts with it
   def set_board
-    @canvas = TetrisCanvas.new
+    @canvas = TetrisCanvas.new 
     @board = Board.new(self)
     @canvas.place(@board.block_size * @board.num_rows + 3,
                   @board.block_size * @board.num_columns + 6, 24, 80)
@@ -302,13 +301,13 @@ class Tetris
 
   def buttons
     pause = TetrisButton.new('pause', 'lightcoral'){self.pause}
-    pause.place(30, 50, 90, 7)
+    pause.place(30, 55, 95, 7)
 
     new_game = TetrisButton.new('new game', 'lightcoral'){self.new_game}
     new_game.place(30, 75, 15, 7)
     
     quit = TetrisButton.new('quit', 'lightcoral'){exitProgram}
-    quit.place(30, 50, 140, 7)
+    quit.place(30, 40, 155, 7)
     
     move_left = TetrisButton.new('left', 'lightgreen'){@board.move_left}
     move_left.place(30, 50, 27, 536)
@@ -342,7 +341,7 @@ class Tetris
   def new_game
     @canvas.unplace
     @canvas.delete
-    set_board
+    set_board # create new board
     @score.text(@board.score)
     @running = true
     run_game
@@ -359,12 +358,12 @@ class Tetris
     end
   end
 
-  # alters the displayed score to reflect what is currently stored in the board
+  # Changes the displayed score to reflect what is currently stored in the board
   def update_score
     @score.text(@board.score)
   end
 
-  # repeatedly calls itself so that the process is fully automated.  Checks if
+  # Repeatedly calls itself so that the process is fully automated.  Checks if
   # the game is over and if it isn't, calls the board's run method which moves
   # a piece down and replaces it with a new one when the old one can't move any
   # more
@@ -375,12 +374,12 @@ class Tetris
     end
   end
 
-  # whether the game is running
+  # Whether the game is running or not
   def is_running?
     @running
   end
 
-  # takes a piece and optionally the list of old TetrisRects corresponding
+  # Takes a piece and optionally the list of old TetrisRects corresponding
   # to it and returns a new set of TetrisRects which are how the piece is 
   # visible to the user.
   def draw_piece (piece, old=nil)

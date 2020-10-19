@@ -11,7 +11,7 @@ def runMyTetris
   mainLoop
 end
 
-if ARGV.count == 0 # ARGV = command line arguments. So you can run your code with arguments.
+if ARGV.count == 0 # ARGV = command line arguments.
   runMyTetris
 elsif ARGV.count != 1 
   puts "usage: hw6runner.rb [enhanced | original]"
