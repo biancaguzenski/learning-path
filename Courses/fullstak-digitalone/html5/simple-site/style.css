@@ -1,0 +1,50 @@
+body {
+    background: rgb(236, 234, 234);
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 900px;
+    margin: auto;
+}
+
+#title, subtitle, post_title{
+    color: crimson;
+}
+
+#title {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+a {
+    color: darkgreen;
+}
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post {
+    background: honeydew;
+    padding: 15px;
+    border: 3px solid rgb(31, 30, 30);
+    margin-bottom: 10px;
+}
+
+.post_content {
+    margin: 0;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.post_image { 
+    margin-bottom: 15px;
+    border-radius: 50px;
+    margin: auto;
+}
+
+.contact_list {
+    list-style-type: none;
+    padding-left: 15px;
+
+}
