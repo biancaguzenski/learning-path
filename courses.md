@@ -2,7 +2,7 @@
 
 Index:
 1. [General computer science](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Computer-Science)
-2. [C language](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#c-language)
+2. [C language](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#C-language)
 3. [Ruby/Ruby on rails](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Ruby-language)
 4. [Bootcamps/Specific courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#bootcamps-and-others)
 5. [In progress/Not started courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#in-progress)
@@ -17,19 +17,19 @@ Index:
   | Alura - [Algorithms I](https://cursos.alura.com.br/course/projetos-de-algoritmos-1) and [II](https://cursos.alura.com.br/course/projetos-de-algoritmos-2)| Selection sort, Insertion sort, MergeSort, QuickSort, Binary search, Big O and time complexity | Finished | [Repo](https://github.com/biancaguzenski/basic-algorithms-and-data-structures) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/user/biancalway/course/projetos-de-algoritmos-1/certificate) [Link 2](https://cursos.alura.com.br/user/biancalway/course/projetos-de-algoritmos-2/formalCertificate) |
   | Princeton - [Algorithms](https://www.coursera.org/learn/algorithms-part1/home/welcome) | Algorithms and data structures | Finished | [Repo](https://github.com/biancaguzenski/basic-algorithms-and-data-structures) |[Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | * |
   
-  ## 2. C language
+  ## C language
   | Course/School | Description | Status | Repo | Books/References | Certificate |
   | :---: | :---: | --- | --- | --- | --- |
   | Alura - [C language I](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-1), [II](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-2) and [III](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-3)| C language - basics to advanced | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects)| [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-c-parte-1/formalCertificate) [Link 2](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-c-parte-2/formalCertificate) [Link 3](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-c-parte-3/formalCertificate) |
 
- ## 3. Ruby language
+ ## Ruby language
  
  | Course/School | Description | Status | Repo | Books/References | Certificate |
   | :---: | :---: | --- | --- | --- | --- |
   | Alura - [Ruby language I](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-1), [II](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-2) and [III](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-3) | Ruby language - basics to advanced | Finished| [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-1/formalCertificate) [Link 2](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-2/formalCertificate) [Link 3](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-3/formalCertificate)
   | Alura - [Object-oriented design with ruby](https://cursos.alura.com.br/course/orientacao-objetos-ruby) | Ruby language - OOP | Finished | [Repo](https://github.com/biancaguzenski/projects-courses) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | Link
   
-  ## 4. Bootcamps and others
+  ## Bootcamps and others
   
   | Course/School | Description | Status | Repo | Books/References | Certificate |
   | :---: | :---: | --- | --- | --- | --- |
