@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Contato</title>
+        <link rel="stylesheet" href="reset.css"> <!-- o rest vem antes do nosso css-->
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <div class="caixa">
+                <h1><img src="6fd967bc-5ad0-4e90-b87a-94cef12419b3_200x200.png" alt="Logo cactus"></h1>
+                <nav> <!--nav é a tag do menu de navegação-->
+                    <ul>
+                        <li><a href="index.html">Home</a></li> <!--a = tag âncora-->
+                        <li>&#10625;</li>
+                        <li><a href="tipos.html">Sobre</a></li>
+                        <li>&#10625;</li>
+                        <li><a href="contato.html">Contato</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <!--Conceito de formulários - informaçõe passadas para outras páginas ou pra um servidor-->
+            <form> <!--divisão semântica do formulário-->
+                <label for="nomesobrenome">Nome e sobrenome</label> <!--o par label e input andam juntos-->
+                <input type="text" id="nomesobrenome" class="padrao" required placeholder="seuemail@dominio.com">
+                <!--required = obrigatorio preencher. placeholder = exemplo pro usuário-->
+                <label for="email">E-mail</label> <!--o id deve ser igual ao for-->
+                <input type="email" id="email" class="padrao" required placeholder="(XX)XXXXX-XXXX">
+
+                <label for="telefone">Telefone/Whatsapp</label>
+                <input type="tel" id="telefone" class="padrao" required>
+
+                
+                <label for="mensagem">Mensagem</label>
+                <textarea name="mensagem" id="mensagem" cols="60" rows="10" class="padrao" required></textarea>
+                
+                <fieldset> <!--fieldset = divisão de dados | legend = título do fieldset-->
+                    <legend>Como prefere o nosso contato?</legend> <!--radio = selecionar bolinha-->
+                    <label for="radio-telefone"><input type="radio" name="contato" value="Telefone" id="radio-telefone">Telefone</label>
+
+                    <label for="radio-email"><input type="radio" name="contato" value="Email" id="radio-email">E-mail</label>
+
+                    <label for="radio-whats"><input type="radio" name="contato" value="Whats" id="radio-whats" checked>Whatsapp</label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Qual horário prefere ser atendido?</legend>
+                    <select> <!--select = caixinha de escolha-->
+                        <option value="">Manhã</option>
+                        <option value="">Tarde</option>
+                        <option value="">Noite</option>
+                    </select>
+                </fieldset>
+
+                <label><input type="checkbox" class="checkbox" checked> Gostaria de reeber novidades por e-mail?</label>
+                <input type="submit" value="Enviar" class="enviar">
+            </form>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Dia</th>
+                        <th>Horário</th>
+                    </tr>
+                </head>
+                <tbody>
+                    <tr>
+                        <tb>Segunda</tb>
+                        <tb>8h ~ 20h</tb>
+                    </tr>
+                    <tr>
+                        <tb>Quarta</tb>
+                        <tb>10h ~ 20h</tb>
+                    </tr>
+                    <tr>
+                        <tb>Sexta</tb>
+                        <tb>8h ~ 20h</tb>
+                    </tr>
+                </tbody>
+            </table>
+
+        </main>
+
+        <footer>
+            <img src="Captura de tela de 2020-10-28 09-18-39.png" alt="Cacto">
+            <p> &copy; Copyright CactiCo - 2020</p>
+        </footer>
+    </body>
+</html>
