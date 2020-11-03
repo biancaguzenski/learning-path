@@ -4,14 +4,16 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>Cactus site</title>
-		<link rel="stylesheet" href="reset.css"> <!-- o rest vem antes do nosso css-->
+		<link rel="stylesheet" href="reset.css">
 		<link rel="stylesheet" href="style.css">
 		<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
+		<meta name="viewport" content="width=device-width">
+
 	</head>
 
 	<body>
 		<header>
-            <div class="caixa">
+            <div class="box">
                 <h1><img src="logo.png" alt="Logo cactus"></h1>
                 <nav> <!--nav é a tag do menu de navegação-->
                     <ul>
@@ -25,13 +27,13 @@
             </div>
         </header>
 
-		<main class="main">
-			<section class="cont_principal">
-				<h2 class="titulo_principal">Cactus site</h2>
-				<img class="cool_image" src="cactos1.jpg" alt="Vaso de cactos">
+		<main>
+			<section class="main_content">
+				<h2 class="main_title">Cactus site</h2>
+				<img class="example_image" src="cactos1.jpg" alt="Vaso de cactos">
 				<p>A cactus (plural cacti, cactuses, or less commonly, cactus) is a member of the plant family Cactaceae, a family comprising about 127 genera with some 1750 known species of the order Caryophyllales. The word "cactus" derives, through Latin, from the Ancient Greek κάκτος, kaktos, a name originally used by Theophrastus for a spiny plant whose identity is now not certain.</p>
 			</section>
-			<section>
+			<section class="main_content">
 				<h3>Cool things about cactus</h3> <!--classes: As classes no CSS servem para marcarmos itens, para posteriormente colocarmos estilo em cada um deles, só que são repetíveis. Ou seja, podemos marcar todos os nossos itens com a mesma classe.-->
 				<ul>
 					<li class="cool_things"> Cactus originates from the Greek name Kaktos. Kaktos is a Spanish artichoke or the “prickly plant of Sicily” as many refer to it in Greece. </li>
@@ -43,11 +45,12 @@
 				<h3>Onde estamos</h3>
 				<p>Estamos em qualquer lugar, basta nos procurar</p>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13947.408376979285!2d-13.4763585!3d29.0805153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1b9b092982faa86f!2sThe%20Cactus%20Garden!5e0!3m2!1spt-BR!2sbr!4v1604171264911!5m2!1spt-BR!2sbr" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-				<div class="video">
-					<h3>More about cacti</h3>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/8V8hdjtAQYE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-				</div>
 			</section>
+
+			<div class="video">
+				<h3>More about cacti</h3>
+				<iframe width="100%" height="315" src="https://www.youtube.com/embed/8V8hdjtAQYE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
 		</main>
 
 		<footer>

@@ -1,18 +1,19 @@
+/* General structure */
+
 body {
+    background: linear-gradient(#3aae6d, white);
     font-family: 'Raleway', sans-serif;
 }
 
 header {
-    background: #3aae6d;
     padding: 20px 0;
 }
 
-.caixa {
+.box {
     position: relative;
     width: 940px;
     margin: 0 auto;
 }
-
 
 nav {
     position: absolute;
@@ -22,7 +23,7 @@ nav {
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px; /* valores da esq p/ dir: topo, dir, baixo, esq */
+    margin: 0 0 0 15px;
 }
 
 nav a {
@@ -39,14 +40,63 @@ nav a:hover {
     text-decoration: underline; 
 }
 
-.main{
-    background: linear-gradient(#3aae6d,  #f7f7f7);
+main {
+    margin: auto;
+}
+
+/* index structure */
+
+.banner {
+    width: 60%;
+    height: 390px;
+}
+
+.main_content {
     position: relative;
     width: 940px;
     margin: 0 auto;
 }
 
-.titulo_secao {
+
+.main_content p {
+    margin: 0 0 1em;
+}
+
+.main_title {
+    font-size: 2em;
+    text-align: center;
+    margin:  0 1em;
+    clear: left; /* limpa o float */
+    padding: 10px;
+}
+
+.example_image {
+    width: 150px;
+    float: left;
+    margin: 0 20px 20px 0; /* cima direita baixo esquerda */
+}
+p, .cool_things {
+    line-height: 28px;
+    font-size: 18px;
+}
+
+.mapa {
+    margin: 100px;
+}
+
+.mapa p {
+    padding: 0 0 10px;
+    text-align: center;
+}
+
+.video {
+    width: 560px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+/* cacpedia */
+.cacp_title {
     text-align: center;
     font-size: 30px;
     padding-top: 20px;
@@ -90,19 +140,22 @@ nav a:hover {
     padding: 6px;
  }
 
-.corpo_texto {
+.text_body {
     font-size: 17px;
 }
 
-footer {
+h2 {
+    font-size: 2em;
     text-align: center;
-    background: #f7f7f7;
-    padding-top: 10px;
+    clear: left; /* limpa o float */
+    padding: 10px;
 }
 
-main {
-    width: 940px;
-    margin: 0 auto;
+
+/* contact */
+#titulo_contato { /* título na página contato */
+    font-size: 22px;
+    padding-top: 20px;
 }
 
 form {
@@ -161,19 +214,6 @@ td, th {
     padding: 8px 15px;
 }
 
-/* página home */
-.banner {
-    width: 60%;
-    height: 390px;
-}
-
-.titulo_principal {
-    font-size: 2em;
-    text-align: center;
-    margin:  0 1em;
-    clear: left; /* limpa o float */
-    padding: 10px;
-}
 
 h3 {
     font-size: 2em;
@@ -183,36 +223,23 @@ h3 {
     padding: 10px;
 }
 
-.cool_image {
-    width: 150px;
-    float: left;
-    margin: 0 20px 20px 0; /* cima direita baixo esquerda */
-}
+/* footer */
 
-.cont_principal p {
-    margin: 0 0 1em;
-}
-
-p, .cool_things {
-    line-height: 28px;
-    font-size: 18px;
-}
-
-.mapa {
-    padding: 3em 0;
-}
-
-.mapa h3{
-    
-}
-
-.mapa p {
-    padding: 0 0 10px;
+footer {
     text-align: center;
+    background: #f7f7f7;
+    padding-top: 10px;
 }
 
-.video {
-    width: 560px;
-    margin: 1em auto;
-    padding: 20px;
+@media screen and (max-width: 480px) {
+    .box, .main_content, .mapa, .video, main, header {
+        width: 100%;
+        margin-left: 50px;
+    }
+    h1, h2, h3, p {
+        text-align: center;
+    }
+    nav {
+        position: static;
+    }
 }
