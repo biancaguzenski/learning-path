@@ -13,9 +13,10 @@ In this [link](https://github.com/ossu/computer-science) you find some resources
 * [Contact](https://t.me/biancaguzenski)
 
 ### List of contents
+Info about every project/course available on respective readme.
 
 1. [Schedule - courses, certificates and others](https://github.com/biancaguzenski/learning-path/blob/master/path.md)
-2. [Personal projects](https://github.com/biancaguzenski/learning-path/blob/master/projects.md)
+2. [Personal projects](https://github.com/biancaguzenski/learning-path/tree/master/Projects)
 3. [Finished courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
 4. [Books, references, links](https://github.com/biancaguzenski/learning-path/blob/master/ref.md)
 5. [Others]() - soon
