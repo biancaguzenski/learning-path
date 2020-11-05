@@ -7,15 +7,16 @@ In this [link](https://github.com/ossu/computer-science) you find some resources
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-[Resume/Portifolio]
-[Personal website]
-[Contact]
+[Resume/Portifolio] - soon
+[Personal website] - soon
+[Linkedin](https://www.linkedin.com/in/biancaguzenski/)
+[Contact](https://t.me/biancaguzenski)
 
 ### List of contents
 
-1. [Curriculum I built](https://github.com/biancaguzenski/learning-path/blob/master/path.md)
+1. [Schedule - courses, certificates and others](https://github.com/biancaguzenski/learning-path/blob/master/path.md)
 2. [Personal projects](https://github.com/biancaguzenski/learning-path/blob/master/projects.md)
 3. [Finished courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
 4. [Books, references, links](https://github.com/biancaguzenski/learning-path/blob/master/ref.md)
-5. [Others]()
+5. [Others]() - soon
 
