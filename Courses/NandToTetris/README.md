@@ -11,3 +11,16 @@ O curso tem o objetivo de construir um computador completo, desde as portas lóg
 Links
 1. [Course Website](https://www.nand2tetris.org/)
 2. On coursera: [Part I](https://www.coursera.org/learn/build-a-computer) and [Part II](https://www.coursera.org/learn/nand2tetris2)
+
+**Assignments**
+
+Week 1 and 2
+- Boolean algebra, Boolean functions, Logic gates, Hardware Description Language (HDL). Build, simulate, and test: 15 elementary logic gates, family of adders -- chips designed to add numbers and Arithmetic Logic Unit.
+
+Week 3
+
+Week 4
+
+Week 5
+
+Week 6
