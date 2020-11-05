@@ -8,7 +8,7 @@ ABOUT/SOBRE
 * Esse curso é uma introdução as linguagens de programação. O primeiro módulo foca na linguagem ML, uma linguagem funcional.
 
 Links
-1. On coursera: [Part I](https://www.coursera.org/learn/programming-languages)
+1. On coursera: [Link](https://www.coursera.org/learn/programming-languages)
 
 *Overview*
 
