@@ -7,10 +7,10 @@ In this [link](https://github.com/ossu/computer-science) you find some resources
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-[Resume/Portifolio] - soon
-[Personal website] - soon
-[Linkedin](https://www.linkedin.com/in/biancaguzenski/)
-[Contact](https://t.me/biancaguzenski)
+* [Resume/Portifolio] - soon
+* [Personal website] - soon
+* [Linkedin](https://www.linkedin.com/in/biancaguzenski/)
+* [Contact](https://t.me/biancaguzenski)
 
 ### List of contents
 
