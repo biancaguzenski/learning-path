@@ -1,6 +1,6 @@
-// Program: sum1ton.asm
-// Computes RAM[1] = 1+2...+n
-// Usage: put a number in RAM[0]
+; Program: sum1ton.asm
+; Computes RAM[1] = 1+2...+n
+; Usage: put a number in RAM[0]
 
 @R0
 D=M
@@ -35,6 +35,6 @@ D=M
 @R1
 M=D
 
-(END_
+(END)
 @END
 0;JMP

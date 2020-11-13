@@ -1,11 +1,11 @@
-// Program: Signum.asm
-// Computes if R0>0
-//		R1=1
-//	    else
-//		R1=0
-// Usage: put a value in R0
+; Program: Signum.asm
+; Computes if R0>0
+;		R1=1
+;	    else
+;		R1=0
+; Usage: put a value in R0
 
-// Positive label
+; Positive label
 
 @R0
 D=M

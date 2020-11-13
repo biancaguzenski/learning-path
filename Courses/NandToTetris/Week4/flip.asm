@@ -1,5 +1,5 @@
-// Program: flip.asm
-// flips the values of RAM[0] and RAM[1]
+; Program: flip.asm
+; flips the values of RAM[0] and RAM[1]
 
 @R1
 D=M
