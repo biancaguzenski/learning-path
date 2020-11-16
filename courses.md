@@ -1,9 +1,10 @@
 ### Index:
-1. [General computer science](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Computer-Science)
+1. [Computer science 0: algorithms, data structures, programming languages](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Computer-Science)
+2. [Computer science 1: hardware, operating systems](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Hardware-and-os)
 2. [C language](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#C-language)
 3. [Ruby/Ruby on rails](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Ruby-language)
-4. [Bootcamps/Specific courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#bootcamps-and-others)
-5. [In progress/Not started courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#in-progress)
+4. [Front end](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Front-End)
+5. [Others](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#others)
 
 ## Computer Science
   
@@ -15,6 +16,15 @@
   | University of Washington -[Programming Languages, Part C - Ruby language](https://www.coursera.org/learn/programming-languages-part-c)	| This course is an introduction to the basic concepts of programming languages, with a strong emphasis in OOP. The course uses the language Ruby but the real intent is to teach enough about how any language  “fits together” to turn you into a more effective programmer. This course will give you a framework for understanding how to use language constructs effectively and how to design correct and elegant programs. | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Courses/Prog_Lang_Course_Racket) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | * |
   | Alura - [Algorithms I](https://cursos.alura.com.br/course/projetos-de-algoritmos-1) and [II](https://cursos.alura.com.br/course/projetos-de-algoritmos-2)| Selection sort, Insertion sort, MergeSort, QuickSort, Binary search, Big O and time complexity | Finished | [Repo](https://github.com/biancaguzenski/basic-algorithms-and-data-structures) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/user/biancalway/course/projetos-de-algoritmos-1/certificate) [Link 2](https://cursos.alura.com.br/user/biancalway/course/projetos-de-algoritmos-2/formalCertificate) |
   | Princeton - [Algorithms](https://www.coursera.org/learn/algorithms-part1/home/welcome) | Algorithms and data structures | Finished | [Repo](https://github.com/biancaguzenski/basic-algorithms-and-data-structures) |[Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | * |
+  | Harvard - [Advanced algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html) | Algorithms | Not started | [Repo] | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | |
+  
+  ## Hardware and OS
+  
+  | Course/School | Description | Status | Repo | Books/References | Certificate |
+  | :---: | :---: | --- | --- | --- | --- |  
+  | Hebrew University of Jerusalem - [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer?courseSlug=build-a-computer&showOnboardingModal=check) | Computer Architecture/OS | In progress | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Courses/NandToTetris) | [Ref 0](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) [Ref 1](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)| * |
+  | Hebrew University of Jerusalem - [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture | Not started | Repo | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | |
+
   
   ## C language
   | Course/School | Description | Status | Repo | Books/References | Certificate |
@@ -29,20 +39,18 @@
   | Alura - [Ruby language I](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-1), [II](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-2) and [III](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-3) | Ruby language - basics to advanced | Finished| [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-1/formalCertificate) [Link 2](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-2/formalCertificate) [Link 3](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-3/formalCertificate)
   | Alura - [Object-oriented design with ruby](https://cursos.alura.com.br/course/orientacao-objetos-ruby) | Ruby language - OOP | Finished | [Repo](https://github.com/biancaguzenski/projects-courses) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | Link
   
-  ## Bootcamps and others
+  ## Front End
+  
+  | Course/School | Description | Status | Repo | Books/References | Certificate |
+  | :---: | :---: | --- | --- | --- | --- |
+  | Alura - HTML/CSS [I](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), [II](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao), [III](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas), [IV](https://cursos.alura.com.br/course/html5-css3-avancando-css) | Frontend | Finished | Repo |[Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [I](https://cursos.alura.com.br/user/biancalway/course/html5-css3-primeiros-passos/certificate), [II](https://cursos.alura.com.br/user/biancalway/course/html5-css3-posicionamento-listas-navegacao/certificate), [III](https://cursos.alura.com.br/user/biancalway/course/html5-css3-formularios-tabelas/certificate), [IV](https://cursos.alura.com.br/user/biancalway/course/html5-css3-avancando-css/certificate) |
+  | Alura - Bootstrap | | In progress | Repo | Ref | Certificate
+
+## Others
   
   | Course/School | Description | Status | Repo | Books/References | Certificate |
   | :---: | :---: | --- | --- | --- | --- |
   | Alura - Linux [I](https://cursos.alura.com.br/course/linux-ubuntu), [II](https://cursos.alura.com.br/course/linux-ubuntu-processos) | Linux | Finished | | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [I](https://cursos.alura.com.br/user/biancalway/course/linux-ubuntu/formalCertificate), [II](https://cursos.alura.com.br/user/biancalway/course/linux-ubuntu-processos/certificate) |
-  | Alura - HTML/CSS [I](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), [II](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao), [III](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas), [IV](https://cursos.alura.com.br/course/html5-css3-avancando-css) | Frontend | Finished | Repo |[Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [I](https://cursos.alura.com.br/user/biancalway/course/html5-css3-primeiros-passos/certificate), [II](https://cursos.alura.com.br/user/biancalway/course/html5-css3-posicionamento-listas-navegacao/certificate), [III](https://cursos.alura.com.br/user/biancalway/course/html5-css3-formularios-tabelas/certificate), [IV](https://cursos.alura.com.br/user/biancalway/course/html5-css3-avancando-css/certificate) |
-
-  
-## In progress
-  
-  | Course/School | Description | Status | Repo | Books/References | Certificate |
-  | :---: | :---: | --- | --- | --- | --- |  
-  | Hebrew University of Jerusalem - [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer?courseSlug=build-a-computer&showOnboardingModal=check) | Computer Architecture/OS | In progress | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Courses/NandToTetris) | [Ref 0](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) [Ref 1](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)| * |
-  | Hebrew University of Jerusalem - [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture | Not started | Repo | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | |
-  | Harvard - [Advanced algorithms](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html) | Algorithms | Not started | [Repo] | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | |
   | [Math for computer science] | Math | Not started| [Repo] |[Ref](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) | |
   | Stanford - [Intro to computer networking](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z) | Computer Network | In progress | [Repo] | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | * |
+  
