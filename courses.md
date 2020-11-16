@@ -5,7 +5,6 @@
 3. [Ruby/Ruby on rails](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Ruby-language)
 4. [Front end](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Front-End)
 5. [Others](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#others)
-6. [In progress/Not started courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#in-progress)
 
 ## Computer Science
   
