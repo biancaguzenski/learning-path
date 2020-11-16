@@ -2,10 +2,10 @@
 ; (R0, R1, R2 refer to RAM[0], RAM[1], and RAM[2], respectively.)
 
 
-@sum
-M=0
-@i
-M=1
+	@sum
+	M=0
+	@i
+	M=1
 
 (LOOP)
 	@i
