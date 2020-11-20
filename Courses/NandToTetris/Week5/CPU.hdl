@@ -1,8 +1,3 @@
-// This file is part of www.nand2tetris.org
-// and the book "The Elements of Computing Systems"
-// by Nisan and Schocken, MIT Press.
-// File name: projects/05/CPU.hdl
-
 /**
  * The Hack CPU (Central Processing unit), consisting of an ALU,
  * two registers named A and D, and a program counter named PC.
@@ -39,5 +34,40 @@ CHIP CPU {
         pc[15];          // address of next instruction
 
     PARTS:
-    // Put your code here:
+    
+    // Type of instruction
+    Not(in=instruction[15], out=Ainstruction);
+    Not(in=Ainstruction, out=Cinstruction);
+    
+    And(a=Cinstruction, b=instruction[5], out=ALUtoA);
+    Mux16(a=instruction, b=ALUout, sel=ALUtoA, out=Aregin);
+    
+    Or(a=Ainstruction, b=ALUtoA, out=loadA);
+    ARegister(in=Aregin, load=loadA, out=Aout);
+    
+    // Select A or M
+    Mux16(a=Aout, b=inM, sel=instruction[12], out=AMout);
+
+    And(a=Cinstruction, b=instruction[4], out=loadD);
+    DRegister(in=ALUout, load=loadD, out=Dout);
+    
+    ALU(x=Dout, y=AMout, zx=instruction[11], nx=instruction[10], zy=instruction[9], ny=instruction[8], f=instruction[7],
+        no=instruction[6], out=ALUout, zr=ZRout, ng=NGout);
+        
+    // Set outputs for writing memory
+    Or16(a=false, b=Aout, out[0..14]=addressM);
+    Or16(a=false, b=ALUout, out=outM);
+    And(a=Cinstruction, b=instruction[3], out=writeM);
+    
+    // PC
+    And(a=ZRout, b=instruction[1], out=jeq);    // is zero and jump if zero
+    And(a=NGout, b=instruction[2], out=jlt);    // is neg and jump if neg
+    Or(a=ZRout, b=NGout, out=zeroOrNeg);
+    Not(in=zeroOrNeg, out=positive);            // is positive (not zero and not neg)
+    And(a=positive, b=instruction[0], out=jgt); // is pos and jump if pos
+    Or(a=jeq, b=jlt, out=jle);
+    Or(a=jle, b=jgt, out=jumpToA);              // load PC if cond met and jump if cond
+    And(a=Cinstruction, b=jumpToA, out=PCload); // Only jump if C instruction
+    Not(in=PCload, out=PCinc);                  // only inc if not load
+    PC(in=Aout, inc=PCinc, load=PCload, reset=reset, out[0..14]=pc);
 }
