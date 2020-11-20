@@ -5,19 +5,21 @@ In this [link](https://github.com/ossu/computer-science) you find some resources
 
 (This content is currently in development process)
 
+
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
 * [Resume/Portifolio] - soon
 * [Personal website] - soon
-* [Linkedin](https://www.linkedin.com/in/biancaguzenski/)
-* [Contact](https://t.me/biancaguzenski)
+* [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/biancaguzenski/)
+* [<img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"/>](https://t.me/biancaguzenski)
+* [<img src="https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://api.whatsapp.com/send?1=pt_BR&phone=5551992947666)
 
 ### List of contents
 Info about every project/course available on respective readme.
 
-1. [Schedule - courses, certificates and others](https://github.com/biancaguzenski/learning-path/blob/master/path.md)
+1. [Schedule - study plan](https://github.com/biancaguzenski/learning-path/blob/master/path.md)
 2. [Personal projects](https://github.com/biancaguzenski/learning-path/tree/master/Projects)
-3. [Finished courses](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
+3. [Finished courses, links and certificates](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
 4. [Books, references, links](https://github.com/biancaguzenski/learning-path/blob/master/ref.md)
 5. [Others]() - soon
 

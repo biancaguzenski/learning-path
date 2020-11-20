@@ -8,9 +8,9 @@
 | Code foundations with Ruby language (You can study any language you like while learning code foundations, like C: [1](https://www.edx.org/course/c-programming-getting-started) and [2](https://www.edx.org/course/c-programming-language-foundations))| Programming and Ruby language | 36h | Finished | [Repo](https://github.com/biancaguzenski/learning-path/blob/master/projects.md) |
 | [Basic math for CS](https://www.coursera.org/learn/what-is-a-proof?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-kNU3Cg9a7r2MC1Jliqp_ww&siteID=PtFMiHYfEVk-kNU3Cg9a7r2MC1Jliqp_ww&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk) | Mathematical thinking: learn the most important tools used in discrete mathematics: induction, recursion, logic, invariants, examples, optimality. | 37h | - | |
 
-Coding challenge websites to practice code foundations: [Edabit](https://edabit.com/), [Freecodecamp](https://www.freecodecamp.org/), [Project Euler](https://projecteuler.net/)h
+Coding challenge websites to practice code foundations: [Edabit](https://edabit.com/), [Freecodecamp](https://www.freecodecamp.org/), [Project Euler](https://projecteuler.net/)
 
-Extra courses i took: [Linux](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
+Extra courses I took: [Linux](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
 
 Optional: [CS50 - understanding tech](https://www.edx.org/course/cs50s-understanding-technology)
 

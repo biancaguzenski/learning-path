@@ -1,4 +1,5 @@
-## Books and references i used while building projects/studying concepts.
+## References
+Books, links and other references I used while building projects/studying concepts.
 
 ### Basics
 
@@ -70,6 +71,9 @@
 
 1. [Course info, lab assignments](https://cs144.github.io/), [Course page 2](https://www.scs.stanford.edu/10au-cs144/)
 2. [Youtube playlist - Standford course](https://www.youtube.com/watch?v=-nciJGUPyAM&list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z&index=1)
+3. HTTP Response status codes [with dogs](https://httpstatusdogs.com/) and [with cats](https://http.cat/)
+4. [HTTP original](https://tools.ietf.org/html/rfc2616)
+5. [Criptografia simétrica e assimétrica](http://www.ronielton.eti.br/publicacoes/artigorevistasegurancadigital2012.pdf)
 
 ### Functional programming
 
