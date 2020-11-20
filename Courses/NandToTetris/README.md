@@ -1,4 +1,5 @@
 ## Nand to tetris - Coursera - The Hebrew University of Jerusalem
+Professors Shimon Schocken and Noam Nisan
 
 **This repo contain my solutions for the assignments and projects of this course.**
 
@@ -18,9 +19,13 @@ Week 1 and 2
 - Boolean algebra, Boolean functions, Logic gates, Hardware Description Language (HDL). Build, simulate, and test: 15 elementary logic gates, family of adders -- chips designed to add numbers and Arithmetic Logic Unit.
 
 Week 3
+- Build, simulate and test a RAM unit gradually: bit, registers, program counter since dff gates.
 
 Week 4
+- Write, test and simulate two programs in assembly language.
 
 Week 5
+- Puting everything together: build hack hardware platform.
 
 Week 6
+- Write the assembler for hack computer
