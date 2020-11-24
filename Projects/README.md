@@ -19,4 +19,4 @@ Modern computer
 
 | Project | Info | References | Repo | Status |
 | -- | -- | -- | -- | -- |
-| Hack Computer | Building a modern computer from logic gates to operating system. | | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Courses/NandToTetris) | In progress |
+| Hack Computer | Building a modern computer from logic gates to operating system. | | [Repo](https://github.com/biancaguzenski/Nand2Tetris) | In progress |
