@@ -22,8 +22,8 @@
   
   | Course/School | Description | Status | Repo | Books/References | Certificate |
   | :---: | :---: | --- | --- | --- | --- |  
-  | Hebrew University of Jerusalem - [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer?courseSlug=build-a-computer&showOnboardingModal=check) | Computer Architecture/OS | In progress | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Courses/NandToTetris) | [Ref 0](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) [Ref 1](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)| * |
-  | Hebrew University of Jerusalem - [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture | Not started | Repo | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | |
+  | Hebrew University of Jerusalem - [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer?courseSlug=build-a-computer&showOnboardingModal=check) | Computer Architecture/OS | In progress | [Repo](https://github.com/biancaguzenski/Nand2Tetris) | [Ref 0](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) [Ref 1](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)|[Link](https://www.coursera.org/account/accomplishments/certificate/RHTBRNK7TALX) |
+  | Hebrew University of Jerusalem - [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) | Computer Architecture | In progress | [Repo](https://github.com/biancaguzenski/Nand2Tetris) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | |
 
   
   ## C language
