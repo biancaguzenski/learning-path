@@ -80,7 +80,7 @@ Books, links and other references I used while building projects/studying concep
  1. [1](https://www.youtube.com/watch?v=w1OwYWe4UFo&ab_channel=GURUSPtalks)
  2. [2](https://www.youtube.com/watch?v=E8I19uA-wGY&ab_channel=IvanPlyusnin)
  3. [3](https://speakerdeck.com/serradura/programacao-funcional-com-ruby-p0otencialize-e-simplifique-qualquer-codebase?slide=126)
- 4. [4](https://github.com/tokland/tokland/wiki/RubyFunctionalProgramming
+ 4. [4](https://github.com/tokland/tokland/wiki/RubyFunctionalProgramming)
  5. [5](https://www.edx.org/course/introduction-to-functional-programming)
  6. [6](https://www.youtube.com/watch?v=jIYfTKYXJr8)
  8. [7](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
