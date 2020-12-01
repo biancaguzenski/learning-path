@@ -35,13 +35,13 @@ Books, links and other references I used while building projects/studying concep
 ### Programming languages - ruby, standard ml, racket, c, tools
 
 #### Standard ML
-1. [Contains links to books and lectures](https://www.smlnj.org/doc/literature.html)
+1. [Collection of links to books and lectures](https://www.smlnj.org/doc/literature.html)
 2. [Very nice youtube playlist on learning sml](https://www.youtube.com/watch?v=2sqjUWGGzTo&list=PLbdi8aNvDqlKKXdG7qn0rQsfH0z1hf7FC)
 
 #### C Language, C++
 
 1. [Intro to C playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE)
-2. [Pointers playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2)
+2. [Pointers playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2) and [pointers book](https://www.amazon.com.br/Understanding-Using-Pointers-Richard-Reese/dp/1449344186)
 3. [CS50 - Intro to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
 4. [Using make](http://mrbook.org/blog/tutorials/make/)
 
@@ -49,8 +49,8 @@ Books, links and other references I used while building projects/studying concep
 
 1. IME classes in pdf - portuguese [I](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula01/aula01.pdf), [II](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula02/aula02.pdf), [III](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula03/aula03.pdf), [IV](https://www.ime.usp.br/~esposte/documents/aula-ruby/aula04/aula04.pdf) and [Rails](https://www.ime.usp.br/~esposte/documents/aula-rails/aula01.pdf)
 2. [Learning Ruby the hard way](https://learnrubythehardway.org/book/)
-3. [Rspec Tutorial - Ruby](https://www.tutorialspoint.com/rspec/rspec_writing_specs.htm)
-4. https://www.udacity.com/course/software-testing--cs258
+3. Rspec: [Tutorial](https://www.tutorialspoint.com/rspec/rspec_writing_specs.htm), [Doc](https://relishapp.com/rspec/rspec-expectations/docs/)
+5. Unit testing: [Serie: unit, mini and rspec](https://dev.to/exampro/testunit-writing-test-code-in-ruby-part-1-of-3-44m2), [Doc](https://docs.ruby-lang.org/en/2.1.0/Test/Unit/Assertions.html)
 
 #### Racket language
 
@@ -77,14 +77,14 @@ Books, links and other references I used while building projects/studying concep
 
 ### Functional programming
 
- 1. https://www.youtube.com/watch?v=w1OwYWe4UFo&ab_channel=GURUSPtalks
- 2. https://www.youtube.com/watch?v=E8I19uA-wGY&ab_channel=IvanPlyusnin
- 3. https://speakerdeck.com/serradura/programacao-funcional-com-ruby-potencialize-e-simplifique-qualquer-codebase?slide=126
- 4. https://github.com/tokland/tokland/wiki/RubyFunctionalProgramming
- 5. https://www.edx.org/course/introduction-to-functional-programming
- 6. https://www.youtube.com/watch?v=jIYfTKYXJr8
- 8. 7https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43
- 9. https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536
+ 1. [1](https://www.youtube.com/watch?v=w1OwYWe4UFo&ab_channel=GURUSPtalks)
+ 2. [2](https://www.youtube.com/watch?v=E8I19uA-wGY&ab_channel=IvanPlyusnin)
+ 3. [3](https://speakerdeck.com/serradura/programacao-funcional-com-ruby-p0otencialize-e-simplifique-qualquer-codebase?slide=126)
+ 4. [4](https://github.com/tokland/tokland/wiki/RubyFunctionalProgramming
+ 5. [5](https://www.edx.org/course/introduction-to-functional-programming)
+ 6. [6](https://www.youtube.com/watch?v=jIYfTKYXJr8)
+ 8. [7](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
+ 9. [8](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 
 
 ### Linux, vim, emacs and editors in general
@@ -95,7 +95,7 @@ Books, links and other references I used while building projects/studying concep
 2. [How to use emacs](https://zoo.cs.yale.edu/classes/cs210/help/emacs.html#:~:text=Emacs%20For%20the%20Dummies,-To%20run%20emacs&text=For%20example%2C%20to%20open%20a,type%20the%20%22return%22%20key.)
 
 ### Front-end
-1. https://learn.shayhowe.com/advanced-html-css/
+1. [Advanced html and css](https://learn.shayhowe.com/advanced-html-css/)
 
 ### Git
 
@@ -104,18 +104,18 @@ Books, links and other references I used while building projects/studying concep
 ### Criptography, security
 
 1. [Cripto course on coursera](https://www.coursera.org/learn/crypto/home/welcome)
-2. https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227
+2. [Repo](https://gist.github.com/paragonie-scott/e9319254c8ecbad4f227)
 
 ### Math
 
-  https://www.edx.org/course/college-algebra-and-problem-solving
-  https://www.edx.org/course/effective-thinking-through-mathematics
-  https://www.edx.org/course/precalculus
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
-  https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
-  https://www.edx.org/course/probability-the-science-of-uncertainty-and-data
-  https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm
+1. [Edx course](https://www.edx.org/course/college-algebra-and-problem-solving)
+2. [Edx course 2](https://www.edx.org/course/effective-thinking-through-mathematics)
+3. [Pre-calculus](https://www.edx.org/course/precalculus)
+4. [MIT course](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+5. [MIT course 2](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+6. [Probability course](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data)
+7. [Algebra course](https://www.edx.org/course/linear-algebra-foundations-to-frontiers#!)
+8. [Math 3 course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
   
 ### Assembly
 
@@ -123,4 +123,4 @@ Books, links and other references I used while building projects/studying concep
   
 ### Object-oriented design
 
-1. https://www.edx.org/course/software-construction-object-oriented-design
+1. [Edx course](https://www.edx.org/course/software-construction-object-oriented-design)
