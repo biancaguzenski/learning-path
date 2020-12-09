@@ -1,6 +1,8 @@
 ## References
 Books, links and other references I used while building projects/studying concepts.
 
+main sources of information: [EdX](https://www.edx.org/) and [Coursera](https://www.coursera.org/)
+
 ### Basics
 
 1. [Book: how to count](https://www.goodreads.com/book/show/12093869-how-to-count)
@@ -51,6 +53,7 @@ Books, links and other references I used while building projects/studying concep
 2. [Learning Ruby the hard way](https://learnrubythehardway.org/book/)
 3. Rspec: [Tutorial](https://www.tutorialspoint.com/rspec/rspec_writing_specs.htm), [Doc](https://relishapp.com/rspec/rspec-expectations/docs/)
 5. Unit testing: [Serie: unit, mini and rspec](https://dev.to/exampro/testunit-writing-test-code-in-ruby-part-1-of-3-44m2), [Doc](https://docs.ruby-lang.org/en/2.1.0/Test/Unit/Assertions.html)
+6. [Ruby tutorial book](https://www.amazon.com/Ruby-Rails-Tutorial-Addison-Wesley-Professional/dp/0136702651/ref=pd_sbs_14_1/138-9505387-0056128?_encoding=UTF8&pd_rd_i=0136702651&pd_rd_r=13d724e6-989f-4c73-a98d-14c799d27037&pd_rd_w=nhAn2&pd_rd_wg=9KQtr&pf_rd_p=ed1e2146-ecfe-435e-b3b5-d79fa072fd58&pf_rd_r=0A915V0TENRXPHRSEEJ3&psc=1&refRID=0A915V0TENRXPHRSEEJ3) and [Agile Web Development with Rails 6](https://www.amazon.com/Agile-Web-Development-Rails-6/dp/1680506706/ref=pd_sbs_14_1/138-9505387-0056128?_encoding=UTF8&pd_rd_i=1680506706&pd_rd_r=23b38511-21e4-4ab1-bb0d-ad9fedb56110&pd_rd_w=O8lIU&pd_rd_wg=srV6Q&pf_rd_p=ed1e2146-ecfe-435e-b3b5-d79fa072fd58&pf_rd_r=B2YYE2QJK0HSM4TK6MQ8&psc=1&refRID=B2YYE2QJK0HSM4TK6MQ8)
 
 #### Racket language
 
