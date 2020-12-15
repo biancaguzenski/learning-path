@@ -44,8 +44,8 @@
   
   | Course/School | Description | Status | Repo | Books/References | Certificate |
   | :---: | :---: | --- | --- | --- | --- |
-  | Alura - HTML/CSS [I](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), [II](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao), [III](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas), [IV](https://cursos.alura.com.br/course/html5-css3-avancando-css) | Frontend | Finished | Repo |[Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [I](https://cursos.alura.com.br/user/biancalway/course/html5-css3-primeiros-passos/certificate), [II](https://cursos.alura.com.br/user/biancalway/course/html5-css3-posicionamento-listas-navegacao/certificate), [III](https://cursos.alura.com.br/user/biancalway/course/html5-css3-formularios-tabelas/certificate), [IV](https://cursos.alura.com.br/user/biancalway/course/html5-css3-avancando-css/certificate) |
-  | Alura - Bootstrap | | In progress | Repo | Ref | [Link](https://cursos.alura.com.br/user/biancalway/course/bootstrap-landing-page/certificate) |
+  | Alura - HTML/CSS [I](https://cursos.alura.com.br/course/html5-css3-primeiros-passos), [II](https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao), [III](https://cursos.alura.com.br/course/html5-css3-formularios-tabelas), [IV](https://cursos.alura.com.br/course/html5-css3-avancando-css) | HTML5 and CSS3 | Finished | Repo |[Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [I](https://cursos.alura.com.br/user/biancalway/course/html5-css3-primeiros-passos/certificate), [II](https://cursos.alura.com.br/user/biancalway/course/html5-css3-posicionamento-listas-navegacao/certificate), [III](https://cursos.alura.com.br/user/biancalway/course/html5-css3-formularios-tabelas/certificate), [IV](https://cursos.alura.com.br/user/biancalway/course/html5-css3-avancando-css/certificate) |
+  | Alura - Bootstrap | Bootstrap framework | Finished | [Repo] | [Ref] | [Link](https://cursos.alura.com.br/user/biancalway/course/bootstrap-landing-page/certificate) |
 
 ## Others
   
