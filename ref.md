@@ -1,11 +1,11 @@
 ## References
 Books, links and other references I used while building projects/studying concepts.
 
-main sources of information: [EdX](https://www.edx.org/) and [Coursera](https://www.coursera.org/)
+Main sources of information: [EdX](https://www.edx.org/) and [Coursera](https://www.coursera.org/)
 
 ### Basics
 
-1. [Book: how to count](https://www.goodreads.com/book/show/12093869-how-to-count)
+1. [Book: how to count](https://www.goodreads.com/book/show/12093869-how-to-count) - The book introduces very programming basic concepts in a fun way.
 2. [What every programmer should know about memory](https://lwn.net/Articles/250967/)
 
 ### Pibs Language, compilers, interpreters
@@ -19,7 +19,7 @@ main sources of information: [EdX](https://www.edx.org/) and [Coursera](https://
 
 ### Algorithms and data structures
 
-1. [Data structures playlist - the best on youtube](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+1. [Data structures playlist - The very best on youtube](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 2. [Big O](https://www.bigocheatsheet.com/) and [Big O 2](https://www.youtube.com/watch?v=D6xkbGLQesk)
 3. [Time complexity analysis](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn)
 4. [MIT OpenCourseWare - Introduction to algorithms](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
@@ -34,10 +34,10 @@ main sources of information: [EdX](https://www.edx.org/) and [Coursera](https://
 2. [Berkeley lectures](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)
 3. [Book - Conceitos de linguagens de programação](https://www.amazon.com.br/Conceitos-Linguagens-Programa%C3%A7%C3%A3o-Robert-Sebesta/dp/8582604688/ref=asc_df_8582604688/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=6461010631478211998&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-812887616297&psc=1)
 
-### Programming languages - ruby, standard ml, racket, c, tools
+### Programming languages and tools
 
 #### Standard ML
-1. [Collection of links to books and lectures](https://www.smlnj.org/doc/literature.html)
+1. [Collection of links (books and lectures)](https://www.smlnj.org/doc/literature.html)
 2. [Very nice youtube playlist on learning sml](https://www.youtube.com/watch?v=2sqjUWGGzTo&list=PLbdi8aNvDqlKKXdG7qn0rQsfH0z1hf7FC)
 
 #### C Language, C++
@@ -80,14 +80,10 @@ main sources of information: [EdX](https://www.edx.org/) and [Coursera](https://
 
 ### Functional programming
 
- 1. [1](https://www.youtube.com/watch?v=w1OwYWe4UFo&ab_channel=GURUSPtalks)
- 2. [2](https://www.youtube.com/watch?v=E8I19uA-wGY&ab_channel=IvanPlyusnin)
- 3. [3](https://speakerdeck.com/serradura/programacao-funcional-com-ruby-p0otencialize-e-simplifique-qualquer-codebase?slide=126)
- 4. [4](https://github.com/tokland/tokland/wiki/RubyFunctionalProgramming)
- 5. [5](https://www.edx.org/course/introduction-to-functional-programming)
- 6. [6](https://www.youtube.com/watch?v=jIYfTKYXJr8)
- 8. [7](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43)
- 9. [8](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+ 1. Youtube channesl and other videos: [1 -ptbr](https://www.youtube.com/watch?v=w1OwYWe4UFo&ab_channel=GURUSPtalks), [2][2](https://www.youtube.com/watch?v=E8I19uA-wGY&ab_channel=IvanPlyusnin) [3 - ptbr] [3](https://speakerdeck.com/serradura/programacao-funcional-com-ruby-p0otencialize-e-simplifique-qualquer-codebase?slide=126), [4](https://www.youtube.com/watch?v=jIYfTKYXJr8)
+ 4. [Github repo](https://github.com/tokland/tokland/wiki/RubyFunctionalProgramming)
+ 5. [Course on edx](https://www.edx.org/course/introduction-to-functional-programming)
+ 8. [Post on medium 1](https://medium.com/trainingcenter/programa%C3%A7%C3%A3o-funcional-para-iniciantes-9e2beddb5b43) [and 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 
 
 ### Linux, vim, emacs and editors in general
