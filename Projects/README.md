@@ -6,7 +6,7 @@ Interpreter
 | -- | -- | -- | -- | -- |
 | .pibslang | Pibs is an interpreter for Pibs Language built with ruby. | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/pibs-lang) | In progress |
 | ondetemcoleta | Uma aplicação de busca e inserção de endereços de pontos de coleta de lixo especial. | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/pibs-lang) | In progress |
-| Paws Pet Store | Landing page de uma pet shop fictícia | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/paws-pet-store) | In progress |
+| Paws Pet Store | Landing page de uma pet shop fictícia | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/paws-pet-store) | Fnished |
 
 Games
 
