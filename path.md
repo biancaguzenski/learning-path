@@ -10,7 +10,7 @@
 
 Coding challenge websites to practice code foundations: [Edabit](https://edabit.com/), [Freecodecamp](https://www.freecodecamp.org/), [Project Euler](https://projecteuler.net/)
 
-Extra courses I took: [Linux](https://github.com/biancaguzenski/learning-path/blob/master/courses.md)
+Extra courses I took: [Linux - basics](https://github.com/biancaguzenski/learning-path/blob/master/courses.md), [Ruby on Rails for begginers](https://gorails.com/series/rails-for-beginners), [Test-driven development using Rails and Rspec](https://thoughtbot.com/upcase/test-driven-rails), [Elixir and Phoenix bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
 
 Optional: [CS50 - understanding tech](https://www.edx.org/course/cs50s-understanding-technology)
 
