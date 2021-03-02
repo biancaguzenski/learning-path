@@ -5,7 +5,7 @@ Interpreter
 | Project | Info | References | Repo | Status |
 | -- | -- | -- | -- | -- |
 | .pibslang | Pibs is an interpreter for Pibs Language built with ruby. | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/pibs-lang) | In progress |
-| ondetemcoleta | Uma aplicação de busca e inserção de endereços de pontos de coleta de lixo especial. | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/pibs-lang) | In progress |
+| ondetemcoleta | Uma aplicação de busca e inserção de endereços de pontos de coleta de lixo especial. | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/pibs-lang) | Finished |
 | Paws Pet Store | Landing page de uma pet shop fictícia | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/paws-pet-store) | Finished |
 | Scheduled tweets | A buffer clone built with Rails | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/scheduled-tweets-app) | In progress |
 | Yet another todo | Like there aren't enough todos, I built mine for styding purposes | [References](https://github.com/biancaguzenski/learning-path/blob/master/references.md) | [Repo](https://github.com/biancaguzenski/yetanothertodo) | Finished 
