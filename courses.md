@@ -2,9 +2,10 @@
 1. [Computer science 0: algorithms, data structures, programming languages](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Computer-Science)
 2. [Computer science 1: hardware, operating systems](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Hardware-and-os)
 2. [C language](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#C-language)
-3. [Ruby/Ruby on rails](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Ruby-language)
-4. [Front end](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Front-End)
-5. [Others](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#others)
+3. [Elixir/Phoenix](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Elixir)
+4. [Ruby/Ruby on rails](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Ruby-language)
+5. [Front end](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#Front-End)
+6. [Others](https://github.com/biancaguzenski/learning-path/blob/master/courses.md#others)
 
 ## Computer Science
   
@@ -31,6 +32,12 @@
   | :---: | :---: | --- | --- | --- | --- |
   | Alura - [C language I](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-1), [II](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-2) and [III](https://cursos.alura.com.br/course/introducao-a-programacao-com-c-parte-3)| C language - basics to advanced | Finished | [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects)| [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-c-parte-1/formalCertificate) [Link 2](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-c-parte-2/formalCertificate) [Link 3](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-c-parte-3/formalCertificate) |
 
+## Elixir
+
+| Course/School | Description | Status | Repo | Books/References | Certificate |
+  | :---: | :---: | --- | --- | --- | --- |
+| Udemy - [Elixir and Phoenix](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) | Elixir, functional programming and Phoenix framework | In progress | Repo | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | *
+
  ## Ruby language
  
  | Course/School | Description | Status | Repo | Books/References | Certificate |
@@ -38,7 +45,9 @@
   | Johns Hopkins - [Ruby on Rails](https://www.coursera.org/learn/ruby-on-rails-intro) | In this course, we will explore how to build web applications with the Ruby on Rails web application framework, which is geared towards rapid prototyping. At the conclusion of this course, you will be able to build a meaningful web application and deploy it to the “cloud” using a Heroku PaaS (Platform as a Service). | In Progress | [Repo] | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | Link
   | Alura - [Ruby language I](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-1), [II](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-2) and [III](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-3) | Ruby language - basics to advanced | Finished| [Repo](https://github.com/biancaguzenski/learning-path/tree/master/Projects) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-1/formalCertificate) [Link 2](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-2/formalCertificate) [Link 3](https://cursos.alura.com.br/user/biancalway/course/introducao-a-programacao-com-ruby-e-jogos-3/formalCertificate)
   | Alura - [Object-oriented design with ruby](https://cursos.alura.com.br/course/orientacao-objetos-ruby) | Ruby language - OOP | Finished | [Repo](https://github.com/biancaguzenski/projects-courses) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/user/biancalway/course/orientacao-objetos-ruby/certificate) |
-  | Alura - Formação Ruby on Rails - part [I](https://cursos.alura.com.br/course/ruby-on-rails-5) and [II](https://cursos.alura.com.br/course/ruby-on-rails-5-validacao-atualizacao-partials-deploy) | Ruby on Rails Framework | Finished | [Repo]()| [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/degree/certificate/e07ca334-69d5-41c0-acef-04c392eb8b45) |
+  | GoRails - [Ruby on Rails for begginers](https://gorails.com/series/rails-for-beginners) | Ruby on Rails basics | Finished | [Repo](https://github.com/biancaguzenski/tweet-this-later-app) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | *
+  | Upcase by thoughtbot - [Test-Driven Rails](https://thoughtbot.com/upcase/test-driven-rails) | TDD/Rspec/Capybara | Finished |[Repo](https://github.com/biancaguzenski/yetanothertodo) | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | *
+  | Alura - Formação Ruby on Rails - part [I](https://cursos.alura.com.br/course/ruby-on-rails-5) and [II](https://cursos.alura.com.br/course/ruby-on-rails-5-validacao-atualizacao-partials-deploy) | Ruby on Rails Framework | Finished | * | [Ref](https://github.com/biancaguzenski/learning-path/blob/master/ref.md) | [Link](https://cursos.alura.com.br/degree/certificate/e07ca334-69d5-41c0-acef-04c392eb8b45) |
   
   ## Front End
   
